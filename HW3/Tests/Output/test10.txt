@@ -1,0 +1,1926 @@
+Container contains: 961 elements.
+Parallelepiped; x: 1664, y: 2265, z: 7522, density: 152.96676312762025, square: 66645796
+Sphere; radius: 3262, density: 92.98672313471768, square: 66857138.03972861
+Sphere; radius: 3311, density: 603.6946321410694, square: 68880807.5139091
+Parallelepiped; x: 4586, y: 5031, z: 5691, density: 334.5745778941653, square: 155605026
+Parallelepiped; x: 2044, y: 4050, z: 7218, density: 610.930278366355, square: 104529384
+Parallelepiped; x: 7841, y: 3027, z: 4055, density: 621.5895051365588, square: 135608894
+Parallelepiped; x: 9943, y: 8211, z: 5633, density: 440.86697412403754, square: 367806910
+Sphere; radius: 7877, density: 555.9075821127196, square: 389853609.2854764
+Parallelepiped; x: 8893, y: 6637, z: 4917, density: 961.8005721442996, square: 270767702
+Sphere; radius: 4074, density: 440.8447915814652, square: 104285017.33946581
+Tetrahedron; x: 4227, density: 511.858198472418, square: 30947468.033710334
+Parallelepiped; x: 721, y: 828, z: 7068, density: 345.69889908283335, square: 23090640
+Parallelepiped; x: 7211, y: 2784, z: 609, density: 303.61755590164995, square: 52324758
+Parallelepiped; x: 59, y: 504, z: 2627, density: 771.1001738262897, square: 3017474
+Tetrahedron; x: 7656, density: 37.24058565282829, square: 101523008.0039135
+Sphere; radius: 1875, density: 195.59570043036166, square: 22089323.345553234
+Tetrahedron; x: 6922, density: 247.67146470109859, square: 82989627.88612302
+Parallelepiped; x: 3422, y: 1235, z: 7836, density: 97.4546621849396, square: 81436844
+Tetrahedron; x: 4026, density: 194.77927141011776, square: 28074250.355422277
+Sphere; radius: 6173, density: 836.249341352438, square: 239426613.20922852
+Tetrahedron; x: 9862, density: 258.5312716824093, square: 168457605.70357695
+Sphere; radius: 5302, density: 647.2974143731282, square: 176627903.939928
+Sphere; radius: 1559, density: 365.4498652221896, square: 15271162.50857915
+Parallelepiped; x: 2952, y: 9284, z: 2450, density: 804.3600400979805, square: 114769136
+Parallelepiped; x: 4284, y: 1457, z: 8035, density: 49.12467052089797, square: 104741446
+Tetrahedron; x: 39, density: 567.3231605624779, square: 2634.4492783122623
+Sphere; radius: 7169, density: 747.2313268382574, square: 322921550.544145
+Tetrahedron; x: 4174, density: 795.9301095024755, square: 30176267.215487868
+Tetrahedron; x: 1855, density: 654.201706663741, square: 5960030.130114696
+Tetrahedron; x: 6240, density: 185.28178464153976, square: 67441901.52479391
+Tetrahedron; x: 7422, density: 974.3313618771869, square: 95411896.278007
+Tetrahedron; x: 9757, density: 410.30283980543635, square: 164889589.70023912
+Parallelepiped; x: 8874, y: 8670, z: 4152, density: 523.3620354675891, square: 299560536
+Tetrahedron; x: 8728, density: 80.73487878403984, square: 131944138.70616901
+Sphere; radius: 556, density: 737.1765359551207, square: 1942358.7731202685
+Sphere; radius: 6315, density: 117.77390900982432, square: 250568560.58170885
+Parallelepiped; x: 6021, y: 2174, z: 4537, density: 357.9763842383524, square: 100540738
+Parallelepiped; x: 1520, y: 4761, z: 4335, density: 495.55171974646294, square: 68929710
+Tetrahedron; x: 4050, density: 883.1360144458677, square: 28409963.371148508
+Sphere; radius: 9733, density: 431.5298313483776, square: 595214243.1749831
+Tetrahedron; x: 3460, density: 637.3842148789381, square: 20735419.44789157
+Sphere; radius: 9902, density: 131.92067606921077, square: 616063831.2275769
+Sphere; radius: 6283, density: 809.339974366756, square: 248035582.3897137
+Parallelepiped; x: 8409, y: 7216, z: 522, density: 943.0766466389639, square: 137671188
+Sphere; radius: 7809, density: 765.3170896024985, square: 383151662.2439439
+Sphere; radius: 3224, density: 550.5133012178308, square: 65308533.923438676
+Parallelepiped; x: 7564, y: 6530, z: 5676, density: 825.9591831524313, square: 258780928
+Tetrahedron; x: 1809, density: 381.42652589651306, square: 5668103.358803807
+Sphere; radius: 449, density: 793.7673036867542, square: 1266696.4411127118
+Tetrahedron; x: 6641, density: 938.2382037256134, square: 76388430.65216409
+Tetrahedron; x: 3065, density: 983.4424800775523, square: 16271274.997733735
+Parallelepiped; x: 7306, y: 9376, z: 4006, density: 595.9268938266698, square: 270658296
+Parallelepiped; x: 3199, y: 1157, z: 4428, density: 991.180447597487, square: 45979222
+Tetrahedron; x: 741, density: 792.0013208210402, square: 951036.1894707266
+Tetrahedron; x: 8405, density: 700.913595674272, square: 122359040.55116595
+Parallelepiped; x: 8235, y: 8089, z: 2559, density: 395.99963790749393, square: 216772062
+Parallelepiped; x: 1844, y: 5509, z: 8020, density: 347.46653445324085, square: 138259312
+Tetrahedron; x: 2015, density: 500.50232315518537, square: 7032515.990161344
+Parallelepiped; x: 3207, y: 1395, z: 9967, density: 887.6019679847061, square: 100683798
+Sphere; radius: 9617, density: 45.458078906594594, square: 581111005.4344878
+Sphere; radius: 6319, density: 320.1726114360767, square: 250886087.63439247
+Sphere; radius: 8017, density: 884.4328085171878, square: 403834701.9036001
+Tetrahedron; x: 3155, density: 222.47928084557623, square: 17240877.03981079
+Tetrahedron; x: 5611, density: 296.216844649691, square: 54530711.56300019
+Sphere; radius: 4419, density: 971.5195393828241, square: 122695284.3602531
+Tetrahedron; x: 8680, density: 766.795626096385, square: 130496864.76417737
+Tetrahedron; x: 3968, density: 177.83770202170268, square: 27271181.534391355
+Sphere; radius: 7842, density: 831.798565893472, square: 386396820.640952
+Parallelepiped; x: 1870, y: 5218, z: 311, density: 333.1655193464742, square: 23924056
+Sphere; radius: 4141, density: 617.6396950949925, square: 107743313.94846399
+Sphere; radius: 892, density: 299.5894219262878, square: 4999304.354251739
+Sphere; radius: 9589, density: 463.50462754974143, square: 577732109.4382166
+Tetrahedron; x: 189, density: 341.4746050696782, square: 61870.586897167865
+Parallelepiped; x: 4597, y: 5810, z: 521, density: 343.23958240793786, square: 64261234
+Sphere; radius: 7261, density: 198.55192021239964, square: 331262856.03054434
+Tetrahedron; x: 4025, density: 972.7470044259012, square: 28060305.61437054
+Sphere; radius: 2195, density: 513.5324361824692, square: 30272543.88962393
+Parallelepiped; x: 5717, y: 1631, z: 2703, density: 391.9691550543344, square: 58372142
+Parallelepiped; x: 2135, y: 9203, z: 4084, density: 719.1824173911028, square: 131905594
+Tetrahedron; x: 6451, density: 404.9185206260963, square: 72079988.90935266
+Parallelepiped; x: 6146, y: 2942, z: 5656, density: 553.5646587245226, square: 138966520
+Sphere; radius: 6305, density: 310.31344399143626, square: 249775622.59594277
+Parallelepiped; x: 7853, y: 2630, z: 9893, density: 505.36544339997124, square: 248723418
+Parallelepiped; x: 7105, y: 7222, z: 6974, density: 162.62217637768006, square: 302457616
+Sphere; radius: 3302, density: 912.2372811154955, square: 68506851.1739817
+Tetrahedron; x: 6785, density: 622.5622159672638, square: 79737080.68867253
+Parallelepiped; x: 1608, y: 8651, z: 6899, density: 526.4950605834688, square: 169375298
+Sphere; radius: 3432, density: 438.2894069930947, square: 74007277.25559285
+Tetrahedron; x: 7523, density: 53.834305507656445, square: 98026331.70923781
+Tetrahedron; x: 6840, density: 636.4475424194619, square: 81035036.26259446
+Sphere; radius: 6911, density: 205.76520847342906, square: 300097000.2698721
+Parallelepiped; x: 6484, y: 2683, z: 3859, density: 305.51909160971957, square: 105544050
+Sphere; radius: 3421, density: 741.9816481300987, square: 73533631.89758173
+Parallelepiped; x: 3928, y: 4970, z: 1704, density: 442.6394426131179, square: 69368704
+Tetrahedron; x: 8268, density: 675.2829969627822, square: 118402688.36446631
+Tetrahedron; x: 8454, density: 241.73262304758424, square: 123789872.13484134
+Parallelepiped; x: 2062, y: 4228, z: 596, density: 39.64558887280523, square: 24933952
+Tetrahedron; x: 8981, density: 519.6213386731713, square: 139704379.30723202
+Sphere; radius: 5156, density: 440.52758245135414, square: 167034309.35632533
+Tetrahedron; x: 6392, density: 228.79342642126633, square: 70767549.92657784
+Sphere; radius: 8204, density: 85.19621497187147, square: 422893657.54187125
+Tetrahedron; x: 9368, density: 247.48175438525953, square: 152003781.2109795
+Tetrahedron; x: 6623, density: 214.7525641717448, square: 75974900.05775541
+Sphere; radius: 7683, density: 256.8233130887736, square: 370886934.78981185
+Sphere; radius: 5273, density: 181.34771829271713, square: 174701008.08584872
+Parallelepiped; x: 5661, y: 5210, z: 3248, density: 826.1088037738836, square: 129605636
+Sphere; radius: 9907, density: 439.9560195246818, square: 616686149.3163264
+Tetrahedron; x: 8814, density: 228.37246343785057, square: 134557131.33907712
+Sphere; radius: 2137, density: 259.8975616095501, square: 28693855.882083215
+Parallelepiped; x: 7789, y: 632, z: 6030, density: 293.57462500520813, square: 111402556
+Tetrahedron; x: 2512, density: 740.4152508055831, square: 10929490.011075905
+Tetrahedron; x: 9305, density: 627.9624539945453, square: 149966198.37300628
+Sphere; radius: 6898, density: 381.09597293285145, square: 298969061.69308317
+Sphere; radius: 7388, density: 174.6074250692846, square: 342952238.48928326
+Parallelepiped; x: 5269, y: 9275, z: 1399, density: 702.9078318493557, square: 138434062
+Tetrahedron; x: 4670, density: 690.4251722171199, square: 37774122.85718889
+Tetrahedron; x: 3791, density: 106.66544471647643, square: 24892481.682172287
+Tetrahedron; x: 6472, density: 750.5994268405716, square: 72550038.05366312
+Tetrahedron; x: 102, density: 286.4272227780881, square: 18020.2566019466
+Tetrahedron; x: 952, density: 820.2059067638678, square: 1569764.5751029036
+Sphere; radius: 7305, density: 501.0556910099574, square: 335289774.62665695
+Sphere; radius: 7406, density: 499.4397084778466, square: 344625400.4711027
+Parallelepiped; x: 979, y: 5102, z: 632, density: 428.1618282145817, square: 17676100
+Sphere; radius: 5170, density: 101.62965523655242, square: 167942631.75707245
+Tetrahedron; x: 5279, density: 767.5919305582032, square: 48268516.509251066
+Sphere; radius: 599, density: 97.17161865792623, square: 2254413.171401343
+Sphere; radius: 8240, density: 269.51676726828856, square: 426613202.7127567
+Sphere; radius: 539, density: 437.7490181296607, square: 1825397.2786271207
+Sphere; radius: 5854, density: 682.4951653694939, square: 215320462.7782943
+Tetrahedron; x: 3170, density: 73.15543212678222, square: 17405205.36017889
+Sphere; radius: 2405, density: 156.13232613032025, square: 36342100.89635941
+Tetrahedron; x: 3863, density: 132.11865757321374, square: 25846994.097613808
+Tetrahedron; x: 4661, density: 53.9328896817195, square: 37628666.96242006
+Parallelepiped; x: 5194, y: 6103, z: 7128, density: 983.7248666043071, square: 224447996
+Parallelepiped; x: 3031, y: 8042, z: 8906, density: 397.8721678537295, square: 245982880
+Parallelepiped; x: 6715, y: 7106, z: 2746, density: 946.6589763535654, square: 171338512
+Parallelepiped; x: 8898, y: 7891, z: 5373, density: 958.1008631964405, square: 320842830
+Sphere; radius: 6056, density: 594.4212964294248, square: 230436675.6540131
+Parallelepiped; x: 6033, y: 3455, z: 7310, density: 703.2044396259174, square: 180402590
+Parallelepiped; x: 1989, y: 7881, z: 8549, density: 652.4121284456704, square: 200107878
+Sphere; radius: 8497, density: 991.0000095504607, square: 453639752.5417267
+Tetrahedron; x: 1074, density: 722.6646051772025, square: 1997879.037311318
+Parallelepiped; x: 6361, y: 8155, z: 5955, density: 444.539666864915, square: 276633470
+Parallelepiped; x: 3879, y: 8293, z: 7530, density: 217.01448406893263, square: 247647414
+Tetrahedron; x: 4176, density: 234.4007534129371, square: 30205192.463974267
+Parallelepiped; x: 2146, y: 9711, z: 6471, density: 574.919866387335, square: 195132906
+Tetrahedron; x: 6263, density: 603.867222860365, square: 67939985.64347568
+Parallelepiped; x: 5295, y: 3642, z: 3182, density: 687.72216515702, square: 95443848
+Parallelepiped; x: 663, y: 381, z: 1830, density: 343.3403242806928, square: 4326246
+Sphere; radius: 7498, density: 200.89520366450796, square: 353240703.1023776
+Sphere; radius: 2539, density: 752.4684325717229, square: 40504686.029624656
+Tetrahedron; x: 9838, density: 771.2161903946712, square: 167638692.08175838
+Tetrahedron; x: 5634, density: 958.1420027265954, square: 54978680.52361577
+Sphere; radius: 7343, density: 992.1006835211991, square: 338787146.3650805
+Sphere; radius: 8135, density: 31.464840271753893, square: 415810050.9752248
+Sphere; radius: 8446, density: 200.524971633243, square: 448210496.10008997
+Parallelepiped; x: 433, y: 4204, z: 1887, density: 657.5569438823807, square: 21140702
+Parallelepiped; x: 3361, y: 6043, z: 8100, density: 972.8675153210154, square: 192965846
+Sphere; radius: 9268, density: 203.46394552198456, square: 539699379.3048836
+Sphere; radius: 93, density: 97.53501799461884, square: 54343.269721796234
+Parallelepiped; x: 6447, y: 9461, z: 6006, density: 805.8395793435529, square: 313077030
+Sphere; radius: 9549, density: 154.37309076154338, square: 572922205.4218644
+Tetrahedron; x: 3554, density: 159.6906150853169, square: 21877388.258134652
+Tetrahedron; x: 3895, density: 672.5075464417082, square: 26276986.102897625
+Parallelepiped; x: 3592, y: 5442, z: 6559, density: 512.2878121357661, square: 157603340
+Sphere; radius: 5991, density: 587.602351032576, square: 225516595.98329958
+Sphere; radius: 9384, density: 811.6979880525402, square: 553293880.0974272
+Tetrahedron; x: 9921, density: 639.9707602578949, square: 170479250.21001893
+Sphere; radius: 6231, density: 299.4460335260795, square: 243946937.78114334
+Tetrahedron; x: 7670, density: 304.3672785386875, square: 101894643.75338872
+Sphere; radius: 8791, density: 244.06290514247252, square: 485575122.57333976
+Parallelepiped; x: 8004, y: 1457, z: 3642, density: 327.6942501472994, square: 92237580
+Sphere; radius: 8149, density: 907.131941665021, square: 417242466.42881435
+Parallelepiped; x: 4493, y: 3629, z: 7472, density: 426.3071324187232, square: 153985362
+Parallelepiped; x: 2961, y: 1984, z: 1862, density: 495.754039909593, square: 30164428
+Tetrahedron; x: 2182, density: 626.039828588281, square: 8246508.669135563
+Parallelepiped; x: 7821, y: 5526, z: 3363, density: 940.5553716738184, square: 176209614
+Parallelepiped; x: 8406, y: 123, z: 3282, density: 405.64973565264296, square: 58052232
+Sphere; radius: 141, density: 149.12775816752156, square: 124916.00709203734
+Parallelepiped; x: 6776, y: 7762, z: 1195, density: 49.690200571456344, square: 139936444
+Sphere; radius: 9328, density: 457.8725508786841, square: 546709906.1432223
+Tetrahedron; x: 6099, density: 675.0529088555787, square: 64428481.26183639
+Parallelepiped; x: 4197, y: 6759, z: 1660, density: 474.99789933056604, square: 93108966
+Parallelepiped; x: 4256, y: 729, z: 4048, density: 775.2475688067706, square: 46563808
+Tetrahedron; x: 4022, density: 490.75337385443044, square: 28018492.175825022
+Sphere; radius: 4916, density: 708.5716113554793, square: 151846091.17698625
+Sphere; radius: 7419, density: 991.1747320436205, square: 345836327.35942894
+Sphere; radius: 9651, density: 347.6624953582055, square: 585227195.5274448
+Parallelepiped; x: 2102, y: 1666, z: 246, density: 826.1018294990059, square: 8857720
+Tetrahedron; x: 1547, density: 284.8162086011532, square: 4145159.581131105
+Sphere; radius: 1209, density: 58.77854692822615, square: 9184012.582983565
+Tetrahedron; x: 9151, density: 155.94616102639225, square: 145043321.99851465
+Parallelepiped; x: 2531, y: 3842, z: 2495, density: 422.6623971492015, square: 51249474
+Tetrahedron; x: 1085, density: 555.7159378671536, square: 2039013.5119402714
+Tetrahedron; x: 9716, density: 255.94090770421107, square: 163506732.45983177
+Sphere; radius: 6569, density: 57.57106775317278, square: 271130510.6941251
+Sphere; radius: 7494, density: 989.1946767125874, square: 352863913.0458766
+Parallelepiped; x: 4071, y: 9233, z: 4834, density: 530.6176805301179, square: 203798158
+Tetrahedron; x: 902, density: 57.06250985231654, square: 1409203.4652412687
+Tetrahedron; x: 1993, density: 716.9702051492611, square: 6879790.678153151
+Tetrahedron; x: 7044, density: 548.3143603686776, square: 85940786.11870086
+Tetrahedron; x: 6104, density: 749.6423321027237, square: 64534162.341860205
+Parallelepiped; x: 6774, y: 7847, z: 4399, density: 491.6350185344974, square: 234946714
+Sphere; radius: 9203, density: 74.31443454165998, square: 532155692.7773043
+Tetrahedron; x: 5731, density: 610.6654576819672, square: 56888101.99413373
+Tetrahedron; x: 4304, density: 934.7287028712657, square: 32085229.69254183
+Sphere; radius: 8616, density: 712.1315031346545, square: 466435126.41097665
+Tetrahedron; x: 8919, density: 341.01314762007996, square: 137782149.32099208
+Tetrahedron; x: 3478, density: 337.22358451835896, square: 20951724.880944002
+Parallelepiped; x: 2895, y: 929, z: 4508, density: 128.81024417007626, square: 39856094
+Sphere; radius: 7225, density: 627.29326639113, square: 327986200.0255914
+Sphere; radius: 9060, density: 588.0884208650193, square: 515746469.4804063
+Parallelepiped; x: 3433, y: 3141, z: 2392, density: 176.22983611407994, square: 53016122
+Tetrahedron; x: 4096, density: 744.641959151579, square: 29058990.521557488
+Tetrahedron; x: 5238, density: 192.23747895287158, square: 47521661.39717979
+Sphere; radius: 7115, density: 222.68875385126353, square: 318075103.52204627
+Tetrahedron; x: 2850, density: 444.3098832991629, square: 14068582.684478205
+Tetrahedron; x: 5027, density: 94.74439257857325, square: 43770186.57230424
+Sphere; radius: 4798, density: 684.1125524999169, square: 144643977.45226103
+Sphere; radius: 969, density: 878.9063193695789, square: 5899665.959214652
+Parallelepiped; x: 3142, y: 1954, z: 8098, density: 983.9524481669602, square: 94813752
+Sphere; radius: 9935, density: 770.3878766939973, square: 620176936.276548
+Sphere; radius: 3462, density: 572.8828297464524, square: 75306765.64082372
+Tetrahedron; x: 7373, density: 696.0783417188039, square: 94156237.3848059
+Tetrahedron; x: 1482, density: 884.2019141702085, square: 3804144.7578829066
+Parallelepiped; x: 8919, y: 7695, z: 3391, density: 777.4238956354866, square: 249939558
+Parallelepiped; x: 7681, y: 4730, z: 601, density: 800.2246942206674, square: 87580282
+Parallelepiped; x: 3938, y: 8469, z: 451, density: 803.0902442633118, square: 77892958
+Parallelepiped; x: 7059, y: 4051, z: 4796, density: 579.4816256300836, square: 163759138
+Sphere; radius: 917, density: 506.43811870504305, square: 5283461.409768935
+Parallelepiped; x: 5122, y: 8877, z: 6880, density: 197.83907544122968, square: 283562228
+Sphere; radius: 8998, density: 50.01406289475951, square: 508711840.34322923
+Parallelepiped; x: 6371, y: 696, z: 7702, density: 515.7812269861399, square: 117728500
+Sphere; radius: 4591, density: 409.35085455549427, square: 132432462.29449545
+Parallelepiped; x: 4013, y: 4042, z: 2869, density: 425.0344854549324, square: 78660682
+Tetrahedron; x: 8548, density: 217.17939172041744, square: 126558014.95088822
+Tetrahedron; x: 1035, density: 555.4344627829769, square: 1855416.1263379704
+Parallelepiped; x: 2918, y: 3631, z: 5008, density: 815.791781900645, square: 86785300
+Sphere; radius: 294, density: 738.3732963511005, square: 543093.4052113747
+Parallelepiped; x: 1109, y: 474, z: 7996, density: 765.374909324795, square: 26366668
+Parallelepiped; x: 8800, y: 6919, z: 4172, density: 864.2943071211673, square: 252933736
+Sphere; radius: 317, density: 279.1304487747356, square: 631391.0083331695
+Sphere; radius: 9447, density: 19.549871574414013, square: 560747955.8361558
+Sphere; radius: 7302, density: 778.2403371044885, square: 335014439.163311
+Sphere; radius: 5206, density: 783.6285565023876, square: 170289627.66397506
+Sphere; radius: 866, density: 767.0970733115827, square: 4712112.520231174
+Parallelepiped; x: 9717, y: 6426, z: 3120, density: 950.214451327878, square: 225615204
+Parallelepiped; x: 9050, y: 1158, z: 4800, density: 195.93540635514572, square: 118956600
+Parallelepiped; x: 4936, y: 9159, z: 1382, density: 702.7736058436698, square: 129376228
+Tetrahedron; x: 7986, density: 312.07561307201917, square: 110463611.78547099
+Parallelepiped; x: 6489, y: 20, z: 8243, density: 573.4137804353729, square: 107566934
+Parallelepiped; x: 1155, y: 9966, z: 5396, density: 366.1306583810773, square: 143039292
+Parallelepiped; x: 9798, y: 5101, z: 7026, density: 125.87714550738394, square: 309319944
+Sphere; radius: 5725, density: 903.0967217475819, square: 205935325.43362793
+Parallelepiped; x: 1506, y: 7785, z: 1, density: 247.7342069635654, square: 23467002
+Sphere; radius: 9080, density: 32.87337793954348, square: 518026009.109851
+Parallelepiped; x: 7637, y: 6717, z: 5348, density: 539.9675793289863, square: 256125842
+Parallelepiped; x: 4701, y: 5659, z: 6922, density: 348.1683947307396, square: 196629758
+Parallelepiped; x: 9402, y: 9389, z: 8786, density: 123.04673209858619, square: 506746208
+Tetrahedron; x: 1965, density: 822.6680050851197, square: 6687837.879455138
+Tetrahedron; x: 2131, density: 227.179391679452, square: 7865521.57735029
+Sphere; radius: 6801, density: 483.27340163699574, square: 290619946.20734704
+Parallelepiped; x: 1407, y: 2005, z: 2619, density: 418.16434881694886, square: 23514126
+Sphere; radius: 4260, density: 207.22029405021613, square: 114024733.68057226
+Tetrahedron; x: 3906, density: 36.81519054964999, square: 26425615.11474592
+Tetrahedron; x: 5753, density: 274.6543914425257, square: 57325701.1665644
+Parallelepiped; x: 4702, y: 2610, z: 2299, density: 703.4667505146385, square: 58165016
+Parallelepiped; x: 9182, y: 6943, z: 3744, density: 563.1564745405308, square: 248245252
+Tetrahedron; x: 1176, density: 164.12584003322638, square: 2395384.6976483753
+Parallelepiped; x: 1631, y: 8865, z: 356, density: 846.893406898531, square: 36390782
+Sphere; radius: 1289, density: 798.4335803164178, square: 10439644.334770333
+Sphere; radius: 5926, density: 696.840515308422, square: 220649609.22843176
+Parallelepiped; x: 209, y: 73, z: 1012, density: 550.3887495557254, square: 601282
+Sphere; radius: 1867, density: 177.23694911930878, square: 21901229.910197504
+Parallelepiped; x: 4522, y: 4579, z: 9068, density: 602.9706430917632, square: 206468212
+Tetrahedron; x: 7757, density: 824.2084855183484, square: 104219314.01271649
+Tetrahedron; x: 7920, density: 885.9601243107604, square: 108645311.77588841
+Sphere; radius: 2206, density: 851.2747019227013, square: 30576719.1735298
+Tetrahedron; x: 909, density: 943.4646530285081, square: 1431160.6733288195
+Sphere; radius: 5483, density: 981.7313349071468, square: 188893215.7302937
+Parallelepiped; x: 832, y: 5061, z: 1199, density: 74.1405343356285, square: 22552918
+Parallelepiped; x: 2165, y: 850, z: 7474, density: 648.3445032501081, square: 48748720
+Tetrahedron; x: 3750, density: 644.5004885617725, square: 24356964.481437337
+Tetrahedron; x: 421, density: 608.8011682609349, square: 306990.4171843154
+Tetrahedron; x: 3760, density: 124.84181166338959, square: 24487041.497085758
+Sphere; radius: 7399, density: 530.5355536762728, square: 343974242.5617932
+Parallelepiped; x: 23, y: 3442, z: 964, density: 300.19064196113874, square: 6838852
+Tetrahedron; x: 2824, density: 397.4645699226036, square: 13813063.621142413
+Sphere; radius: 6436, density: 127.01348734950923, square: 260262704.97978228
+Sphere; radius: 6608, density: 381.72999815524634, square: 274359458.4730406
+Parallelepiped; x: 8652, y: 8640, z: 565, density: 808.3763824048028, square: 169046520
+Tetrahedron; x: 5585, density: 793.1730620237321, square: 54026518.50112012
+Tetrahedron; x: 5271, density: 563.8730371087056, square: 48122331.42109225
+Parallelepiped; x: 5461, y: 3986, z: 8826, density: 675.9568525165972, square: 210293536
+Parallelepiped; x: 2885, y: 4515, z: 6884, density: 207.42724889022935, square: 127934750
+Tetrahedron; x: 6530, density: 279.04940742922156, square: 73856205.28046374
+Tetrahedron; x: 6231, density: 627.5574238563316, square: 67247497.87420319
+Sphere; radius: 5556, density: 883.6364394723334, square: 193956501.76052842
+Tetrahedron; x: 3552, density: 859.8152177625226, square: 21852772.352057483
+Tetrahedron; x: 5673, density: 787.0510025670667, square: 55742468.16438184
+Sphere; radius: 731, density: 2.517862242120472, square: 3357489.1839297907
+Parallelepiped; x: 8762, y: 9310, z: 6834, density: 928.7545904599909, square: 410156536
+Parallelepiped; x: 1411, y: 2201, z: 4074, density: 485.22784898251734, square: 35641798
+Tetrahedron; x: 1970, density: 239.23315455456063, square: 6721915.9790940555
+Tetrahedron; x: 6213, density: 111.32610177133174, square: 66859532.34971422
+Sphere; radius: 6492, density: 738.9932134786513, square: 264811530.08025047
+Parallelepiped; x: 7548, y: 3728, z: 8497, density: 454.79520587530806, square: 247902232
+Sphere; radius: 362, density: 301.9803991529094, square: 823373.7353940418
+Parallelepiped; x: 7181, y: 8466, z: 8101, density: 279.37384952127354, square: 375101386
+Parallelepiped; x: 1170, y: 2822, z: 1158, density: 527.7901854452512, square: 15848952
+Parallelepiped; x: 7550, y: 2726, z: 5465, density: 608.8010157953006, square: 153479280
+Parallelepiped; x: 8169, y: 6137, z: 8856, density: 300.6734472230431, square: 353654178
+Parallelepiped; x: 4424, y: 5743, z: 3222, density: 152.24810856290205, square: 116330212
+Parallelepiped; x: 8440, y: 3945, z: 9343, density: 658.5771685445916, square: 298017710
+Tetrahedron; x: 1884, density: 350.94184402754, square: 6147838.131230197
+Parallelepiped; x: 3718, y: 9324, z: 7001, density: 440.03320984501295, square: 251947348
+Parallelepiped; x: 8564, y: 3596, z: 7929, density: 381.5667639802467, square: 254425568
+Parallelepiped; x: 3294, y: 4193, z: 4502, density: 686.2430550603189, square: 95036432
+Tetrahedron; x: 6579, density: 464.4830936283808, square: 74968772.52824834
+Sphere; radius: 2279, density: 784.1986948629838, square: 32633865.45902693
+Parallelepiped; x: 2130, y: 7190, z: 5551, density: 5.064574333491834, square: 134100040
+Tetrahedron; x: 1851, density: 913.0955048438146, square: 5934354.208943294
+Tetrahedron; x: 4673, density: 264.19491517534686, square: 37822670.50927424
+Tetrahedron; x: 5952, density: 38.54937676498504, square: 61360158.452380545
+Sphere; radius: 4089, density: 389.99221522884307, square: 105054361.9644034
+Tetrahedron; x: 7933, density: 762.452303121367, square: 109002268.39476947
+Parallelepiped; x: 70, y: 4042, z: 8564, density: 632.7391797660625, square: 70996216
+Sphere; radius: 1255, density: 344.651381567652, square: 9896173.938440528
+Parallelepiped; x: 2475, y: 1486, z: 3710, density: 835.9448892806145, square: 36746320
+Tetrahedron; x: 5197, density: 904.9517327935121, square: 46780629.43992356
+Sphere; radius: 6302, density: 86.43483613369274, square: 249537986.24443996
+Parallelepiped; x: 9366, y: 8894, z: 8312, density: 534.0402905207434, square: 470156648
+Sphere; radius: 8824, density: 981.4731938395984, square: 489227506.7764768
+Parallelepiped; x: 7903, y: 2660, z: 2108, density: 110.85804909634066, square: 86577568
+Tetrahedron; x: 7829, density: 706.7176084538459, square: 106163007.57256381
+Tetrahedron; x: 4500, density: 713.0453900768074, square: 35074028.85326976
+Parallelepiped; x: 2437, y: 6046, z: 4514, density: 210.47909445459788, square: 106052728
+Parallelepiped; x: 9133, y: 3993, z: 9798, density: 782.3460698945047, square: 330153234
+Tetrahedron; x: 9339, density: 466.9698505672415, square: 151064138.45172095
+Parallelepiped; x: 5741, y: 6219, z: 781, density: 306.33984057669073, square: 90088078
+Tetrahedron; x: 7800, density: 932.9598761034264, square: 105377971.13249049
+Parallelepiped; x: 3015, y: 7856, z: 5208, density: 505.3145366644654, square: 160604016
+Tetrahedron; x: 4097, density: 703.0138196152046, square: 29073181.2138239
+Parallelepiped; x: 692, y: 2574, z: 1940, density: 317.8445567467142, square: 16234496
+Parallelepiped; x: 574, y: 3818, z: 4796, density: 437.81743211632494, square: 46511128
+Sphere; radius: 431, density: 655.7089877505281, square: 1167170.7858469873
+Parallelepiped; x: 8534, y: 2594, z: 635, density: 130.4188275160172, square: 58406952
+Sphere; radius: 493, density: 933.6276992684586, square: 1527121.9057246912
+Tetrahedron; x: 4514, density: 759.6027250112716, square: 35292606.73698173
+Parallelepiped; x: 7055, y: 1628, z: 736, density: 567.8094443517965, square: 35752456
+Tetrahedron; x: 4619, density: 855.5993239255088, square: 36953582.839662015
+Parallelepiped; x: 5898, y: 9732, z: 758, density: 841.350260307132, square: 138493752
+Parallelepiped; x: 520, y: 3119, z: 7596, density: 537.4508233698837, square: 58527448
+Sphere; radius: 6123, density: 825.263266511026, square: 235563710.88237447
+Sphere; radius: 2802, density: 926.7693940744614, square: 49330569.6164696
+Tetrahedron; x: 7644, density: 694.1310209311999, square: 101205003.47564386
+Parallelepiped; x: 3059, y: 5292, z: 868, density: 627.5295088906364, square: 46873792
+Sphere; radius: 7504, density: 303.45930766708426, square: 353806265.1782474
+Tetrahedron; x: 2412, density: 513.4451823030333, square: 10076628.19342899
+Sphere; radius: 1603, density: 842.5628550023584, square: 16145329.51399643
+Parallelepiped; x: 1442, y: 5545, z: 9983, density: 876.7855433049086, square: 155494222
+Tetrahedron; x: 7719, density: 300.38477651305607, square: 103200715.71739492
+Sphere; radius: 3618, density: 308.1698842730405, square: 82246418.14889744
+Sphere; radius: 1511, density: 927.6120449568432, square: 14345272.321713164
+Tetrahedron; x: 9847, density: 410.2372675102711, square: 167945550.86308134
+Tetrahedron; x: 3845, density: 400.198091965711, square: 25606682.44036847
+Sphere; radius: 9153, density: 858.6834904341027, square: 526388985.30237484
+Parallelepiped; x: 4843, y: 7701, z: 7316, density: 945.8546970373147, square: 258135694
+Sphere; radius: 7839, density: 958.225925736954, square: 386101240.75454634
+Tetrahedron; x: 1163, density: 194.13768265305865, square: 2342718.228742629
+Sphere; radius: 8254, density: 381.34308372506274, square: 428064090.7311493
+Parallelepiped; x: 4894, y: 7756, z: 5777, density: 312.92148597455315, square: 222073828
+Parallelepiped; x: 9847, y: 471, z: 7185, density: 834.9731196398345, square: 157545534
+Parallelepiped; x: 1071, y: 1757, z: 5435, density: 939.1665106216677, square: 34503854
+Parallelepiped; x: 8087, y: 3638, z: 2927, density: 133.99312396105668, square: 127479162
+Sphere; radius: 7008, density: 576.8737599708762, square: 308580198.93006355
+Sphere; radius: 9211, density: 669.7400014873059, square: 533081281.3712755
+Sphere; radius: 2198, density: 810.9465809076634, square: 30355349.98878725
+Tetrahedron; x: 2096, density: 165.06421202001275, square: 7609273.320624513
+Tetrahedron; x: 6137, density: 126.00178905060233, square: 65233829.46173007
+Tetrahedron; x: 6443, density: 311.66607317241204, square: 71901324.40445031
+Sphere; radius: 3189, density: 766.3254036678215, square: 63898241.56531569
+Parallelepiped; x: 5589, y: 5921, z: 8445, density: 541.6421548819375, square: 260588838
+Sphere; radius: 4227, density: 656.5961267911645, square: 112264995.68840516
+Sphere; radius: 7030, density: 696.1411821280985, square: 310520672.7475916
+Tetrahedron; x: 6445, density: 728.7397541984385, square: 71945969.74606621
+Tetrahedron; x: 6057, density: 71.96370298297339, square: 63544179.25793048
+Tetrahedron; x: 6671, density: 448.8992212274521, square: 77080142.4626748
+Tetrahedron; x: 7706, density: 668.4856915024496, square: 102853396.22920716
+Parallelepiped; x: 8613, y: 5406, z: 3007, density: 919.266607546005, square: 177434022
+Sphere; radius: 1361, density: 568.2623257028783, square: 11638476.0913802
+Parallelepiped; x: 9840, y: 9820, z: 9618, density: 122.32497797354891, square: 571437360
+Sphere; radius: 9919, density: 342.7351862360343, square: 618180994.4991281
+Tetrahedron; x: 8769, density: 834.3509140699766, square: 133186672.11835034
+Sphere; radius: 4792, density: 33.78527439560597, square: 144282442.96968594
+Sphere; radius: 2588, density: 173.43433374509, square: 42083166.69205023
+Tetrahedron; x: 8637, density: 985.5288232892651, square: 129207126.03928655
+Tetrahedron; x: 6115, density: 860.8915910491793, square: 64766965.55885473
+Sphere; radius: 7392, density: 440.3073558308338, square: 343323700.4046438
+Parallelepiped; x: 9520, y: 1542, z: 1038, density: 657.0808244376135, square: 52324392
+Tetrahedron; x: 7068, density: 339.68684710931694, square: 86527410.94261475
+Sphere; radius: 3758, density: 194.16301401526616, square: 88734686.62450336
+Sphere; radius: 927, density: 759.1289744131211, square: 5399323.346833326
+Tetrahedron; x: 1064, density: 264.35596552872477, square: 1960847.7910454955
+Sphere; radius: 6586, density: 10.248279393686222, square: 272535650.8402962
+Parallelepiped; x: 9171, y: 6132, z: 4066, density: 888.9805991568791, square: 236917140
+Sphere; radius: 1106, density: 361.7981969848051, square: 7685818.4624131275
+Sphere; radius: 1819, density: 727.4973961223761, square: 20789558.500168834
+Tetrahedron; x: 6293, density: 47.929172983813714, square: 68592414.54167072
+Sphere; radius: 8224, density: 558.9843364352113, square: 424958060.9063982
+Parallelepiped; x: 6909, y: 2612, z: 9319, density: 821.6402896407636, square: 213545014
+Parallelepiped; x: 2421, y: 8753, z: 705, density: 945.9725789693784, square: 58137366
+Sphere; radius: 6096, density: 71.30558972796631, square: 233490806.36812693
+Tetrahedron; x: 736, density: 857.4450352200249, square: 938244.9942568305
+Tetrahedron; x: 8831, density: 968.659981921744, square: 135076685.9595695
+Tetrahedron; x: 8308, density: 93.51910258216722, square: 119551107.33191678
+Parallelepiped; x: 4043, y: 4644, z: 6697, density: 732.422156817608, square: 153905062
+Tetrahedron; x: 2655, density: 350.4484629529487, square: 12209269.443823205
+Sphere; radius: 4272, density: 807.664806766383, square: 114668031.32506253
+Tetrahedron; x: 6597, density: 147.78165201329253, square: 75379559.55417784
+Tetrahedron; x: 6741, density: 417.66434796427865, square: 78706261.04285276
+Sphere; radius: 912, density: 935.4368492317354, square: 5226001.680134778
+Tetrahedron; x: 6011, density: 180.81347829105866, square: 62582669.35722639
+Sphere; radius: 3711, density: 677.3158544869798, square: 86529018.40471512
+Sphere; radius: 7705, density: 940.9851578435583, square: 373014019.2109632
+Tetrahedron; x: 3344, density: 267.15403201875165, square: 19368374.099306528
+Parallelepiped; x: 531, y: 6788, z: 9940, density: 743.1672288646768, square: 152710576
+Tetrahedron; x: 9291, density: 219.70397643401628, square: 149515269.33756056
+Tetrahedron; x: 5080, density: 565.7618361664422, square: 44697995.96044547
+Parallelepiped; x: 18, y: 5127, z: 3879, density: 307.2231901427663, square: 40099482
+Tetrahedron; x: 8798, density: 820.3568230484715, square: 134069053.27791065
+Tetrahedron; x: 8411, density: 388.70946801504635, square: 122533797.54944642
+Sphere; radius: 3024, density: 49.89948499107199, square: 57457065.56358708
+Tetrahedron; x: 6164, density: 54.11479305883704, square: 65809090.3002955
+Sphere; radius: 9667, density: 454.50121295420973, square: 587169252.7076705
+Tetrahedron; x: 7811, density: 7.523677964360265, square: 105675400.62921703
+Sphere; radius: 6798, density: 507.10989905253655, square: 290363611.09637004
+Sphere; radius: 5972, density: 755.4507391254543, square: 224088446.81253362
+Tetrahedron; x: 8081, density: 140.16724118637615, square: 113107353.51636587
+Sphere; radius: 6059, density: 352.6746220944128, square: 230665038.02400252
+Parallelepiped; x: 4552, y: 1519, z: 8337, density: 799.4571405022613, square: 115056830
+Tetrahedron; x: 498, density: 991.4523097529278, square: 429555.5284803118
+Parallelepiped; x: 7490, y: 2372, z: 9614, density: 473.27076170418945, square: 225159096
+Tetrahedron; x: 7197, density: 868.4536056432908, square: 89714704.85794088
+Tetrahedron; x: 1286, density: 278.19037656771974, square: 2864458.697354179
+Sphere; radius: 8271, density: 726.733733281866, square: 429829194.5635688
+Parallelepiped; x: 7144, y: 3304, z: 9420, density: 591.152254297174, square: 244047872
+Sphere; radius: 4444, density: 681.305024308953, square: 124087481.14469142
+Tetrahedron; x: 1289, density: 891.5497642465791, square: 2877838.7898426484
+Sphere; radius: 4981, density: 636.9034745121187, square: 155888095.70102143
+Tetrahedron; x: 7094, density: 930.9163255849219, square: 87165172.8345713
+Sphere; radius: 4977, density: 180.88596540006364, square: 155637823.86386585
+Tetrahedron; x: 831, density: 985.669759310716, square: 1196086.7377255715
+Sphere; radius: 8966, density: 592.2739910506788, square: 505099963.8357677
+Tetrahedron; x: 408, density: 983.6305375966334, square: 288324.1056311456
+Parallelepiped; x: 2472, y: 7216, z: 9289, density: 240.8568488339483, square: 215659568
+Sphere; radius: 2537, density: 35.06793601886604, square: 40440899.13238616
+Tetrahedron; x: 4240, density: 83.61226400985711, square: 31138116.598150246
+Parallelepiped; x: 1656, y: 7331, z: 7836, density: 260.988080529305, square: 165124536
+Sphere; radius: 1430, density: 344.24140124781, square: 12848485.634651538
+Sphere; radius: 570, density: 39.36293213424547, square: 2041406.9063026477
+Tetrahedron; x: 640, density: 51.98797741750305, square: 709448.0107802121
+Sphere; radius: 1377, density: 166.4833687302214, square: 11913729.873317122
+Sphere; radius: 6583, density: 964.97297767575, square: 272287421.0383655
+Tetrahedron; x: 1598, density: 371.8586111547967, square: 4422971.870411115
+Parallelepiped; x: 8321, y: 5740, z: 4677, density: 476.0334195573447, square: 227051674
+Sphere; radius: 463, density: 241.33304910212004, square: 1346920.1511147807
+Sphere; radius: 2033, density: 483.59933497298266, square: 25968964.078065567
+Sphere; radius: 4516, density: 13.166283178557503, square: 128140889.65005912
+Parallelepiped; x: 5487, y: 6656, z: 574, density: 438.6506245484168, square: 86983108
+Sphere; radius: 9579, density: 485.22362490834723, square: 576527748.4785364
+Parallelepiped; x: 164, y: 9003, z: 1705, density: 697.1966080046636, square: 34212454
+Tetrahedron; x: 2119, density: 100.08252225922432, square: 7777186.986164277
+Parallelepiped; x: 7322, y: 1264, z: 3101, density: 842.9031810730742, square: 71760388
+Sphere; radius: 1609, density: 314.78514610145527, square: 16266419.061236393
+Tetrahedron; x: 6256, density: 8.203522355896165, square: 67788200.835056
+Tetrahedron; x: 7851, density: 470.93460338078387, square: 106760495.81914277
+Parallelepiped; x: 9353, y: 7344, z: 2146, density: 180.61606986714173, square: 209040388
+Tetrahedron; x: 4916, density: 753.2132777213726, square: 41858568.86136228
+Sphere; radius: 3826, density: 864.6837336628416, square: 91975000.68563956
+Parallelepiped; x: 859, y: 9049, z: 80, density: 463.8194234795654, square: 17131462
+Sphere; radius: 4087, density: 91.00674036531674, square: 104951619.31826042
+Tetrahedron; x: 667, density: 763.7388724486922, square: 770570.3517285102
+Sphere; radius: 2068, density: 74.41251571819352, square: 26870821.081131592
+Sphere; radius: 7127, density: 14.547124619499584, square: 319148925.0237845
+Parallelepiped; x: 191, y: 6843, z: 2007, density: 973.8323869062322, square: 30848502
+Parallelepiped; x: 868, y: 4899, z: 9898, density: 435.9573120580803, square: 122668196
+Sphere; radius: 2867, density: 617.748533465058, square: 51645829.15438566
+Tetrahedron; x: 2564, density: 776.5304931027387, square: 11386668.285835326
+Parallelepiped; x: 1254, y: 4254, z: 5987, density: 501.68187442104573, square: 76621824
+Sphere; radius: 50, density: 583.4795228415215, square: 15707.963267948966
+Tetrahedron; x: 4350, density: 532.8813641416413, square: 32774731.40622208
+Tetrahedron; x: 8812, density: 566.9094994510014, square: 134496073.0840087
+Parallelepiped; x: 8429, y: 3570, z: 9340, density: 627.9855541884234, square: 284324380
+Parallelepiped; x: 5875, y: 2556, z: 5463, density: 83.46150823353715, square: 122150106
+Parallelepiped; x: 5844, y: 2187, z: 3205, density: 522.9148742662612, square: 77040366
+Tetrahedron; x: 5016, density: 905.9771547037494, square: 43578841.723439686
+Sphere; radius: 5270, density: 135.54319526721105, square: 174502277.21776792
+Sphere; radius: 8001, density: 58.72714833580805, square: 402224396.9075937
+Tetrahedron; x: 2201, density: 380.64429803394853, square: 8390748.664237477
+Parallelepiped; x: 7397, y: 8935, z: 3643, density: 936.3012825163953, square: 251179342
+Sphere; radius: 1258, density: 440.3345811698965, square: 9943542.872471355
+Parallelepiped; x: 3259, y: 8799, z: 8816, density: 922.5361159437126, square: 269958538
+Tetrahedron; x: 3421, density: 422.5781994331879, square: 20270608.025223196
+Tetrahedron; x: 5641, density: 414.1195695060221, square: 55115382.63360314
+Tetrahedron; x: 2833, density: 722.4491792370193, square: 13901247.523908168
+Parallelepiped; x: 5181, y: 2696, z: 7886, density: 536.789481771168, square: 152171996
+Parallelepiped; x: 2281, y: 7374, z: 9676, density: 944.9454488932394, square: 220483748
+Parallelepiped; x: 2996, y: 5794, z: 4073, density: 649.4800201467776, square: 106320988
+Parallelepiped; x: 8717, y: 6415, z: 1638, density: 881.2235778958799, square: 161411542
+Parallelepiped; x: 1631, y: 8789, z: 2360, density: 367.2211157354367, square: 77852118
+Parallelepiped; x: 7004, y: 7986, z: 8725, density: 69.87898566863204, square: 373443388
+Parallelepiped; x: 8925, y: 1307, z: 9635, density: 248.09121650639386, square: 220500590
+Tetrahedron; x: 9125, density: 809.8451427298212, square: 144220293.02397728
+Sphere; radius: 8213, density: 81.69992469220855, square: 423822017.020563
+Tetrahedron; x: 9524, density: 36.60109525037769, square: 157108398.21260774
+Sphere; radius: 9967, density: 683.2930872200942, square: 624178470.8040196
+Parallelepiped; x: 7181, y: 2964, z: 5745, density: 598.6010902398659, square: 159135018
+Tetrahedron; x: 1519, density: 932.4503582146931, square: 3996466.483402932
+Tetrahedron; x: 366, density: 144.35166267999733, square: 232018.59797869652
+Sphere; radius: 5452, density: 668.6576498491041, square: 186763310.15893942
+Parallelepiped; x: 9792, y: 6771, z: 786, density: 319.65877725158856, square: 158640300
+Parallelepiped; x: 6746, y: 1745, z: 2430, density: 663.961458504808, square: 64809800
+Tetrahedron; x: 7482, density: 699.1569191649985, square: 96960765.3921674
+Parallelepiped; x: 8486, y: 147, z: 7691, density: 750.333360414553, square: 135287690
+Parallelepiped; x: 4371, y: 3226, z: 3572, density: 991.1072943772322, square: 82474660
+Parallelepiped; x: 8385, y: 3560, z: 7672, density: 941.051558886483, square: 242985280
+Parallelepiped; x: 7404, y: 9512, z: 9670, density: 193.72405703172313, square: 468009136
+Sphere; radius: 5626, density: 509.9625140382147, square: 198874602.22787017
+Sphere; radius: 1238, density: 303.8427629922399, square: 9629886.26193695
+Tetrahedron; x: 4258, density: 9.686309179647301, square: 31403058.017879214
+Parallelepiped; x: 7412, y: 2154, z: 7556, density: 288.3087913557756, square: 176492288
+Parallelepiped; x: 1849, y: 4320, z: 9627, density: 383.2199046983349, square: 134753286
+Sphere; radius: 2424, density: 867.9865974250301, square: 36918589.43147844
+Tetrahedron; x: 8374, density: 408.1885685964238, square: 121458116.0556598
+Parallelepiped; x: 8344, y: 9168, z: 1806, density: 22.830976555387128, square: 216248928
+Tetrahedron; x: 5023, density: 135.04573350582683, square: 43700558.12983998
+Sphere; radius: 371, density: 856.4375242006046, square: 864823.9088655055
+Parallelepiped; x: 3384, y: 3494, z: 1696, density: 590.4182493096254, square: 46977568
+Sphere; radius: 5787, density: 850.742398961139, square: 210419911.24751553
+Sphere; radius: 477, density: 13.99112434979688, square: 1429606.8697572642
+Tetrahedron; x: 6493, density: 281.28838010407986, square: 73021614.86678587
+Parallelepiped; x: 4570, y: 6624, z: 3585, density: 891.7402925020668, square: 140804340
+Sphere; radius: 1987, density: 447.6508022551272, square: 24807077.45106192
+Sphere; radius: 8463, density: 524.1584608260738, square: 450016616.56619465
+Parallelepiped; x: 9570, y: 3661, z: 808, density: 511.6988944183771, square: 91452836
+Parallelepiped; x: 8464, y: 234, z: 4067, density: 140.89230293577327, square: 74710684
+Sphere; radius: 1120, density: 160.8399067770393, square: 7881627.649326073
+Tetrahedron; x: 6245, density: 94.88580735943941, square: 67550024.7964564
+Sphere; radius: 7086, density: 829.6236778335523, square: 315487505.6001758
+Sphere; radius: 4705, density: 506.23625001241714, square: 139091030.22466716
+Parallelepiped; x: 5631, y: 7331, z: 2375, density: 219.38700961926617, square: 144131222
+Sphere; radius: 7606, density: 391.1251985244588, square: 363490036.0373787
+Tetrahedron; x: 5650, density: 255.9207950169885, square: 55291391.90461748
+Parallelepiped; x: 7226, y: 6071, z: 5529, density: 479.0290356360769, square: 234776318
+Tetrahedron; x: 1268, density: 883.0667378396047, square: 2784832.8576286226
+Parallelepiped; x: 1458, y: 6487, z: 2828, density: 977.8519115568814, square: 63853012
+Sphere; radius: 1209, density: 775.3730637471194, square: 9184012.582983565
+Sphere; radius: 3741, density: 651.8949491474233, square: 87933687.31198819
+Tetrahedron; x: 4367, density: 714.0001746132565, square: 33031402.283344902
+Tetrahedron; x: 3910, density: 305.0954606769425, square: 26479765.95119375
+Tetrahedron; x: 7101, density: 349.7850956665618, square: 87337278.06306538
+Parallelepiped; x: 4742, y: 7577, z: 4640, density: 435.27980401558887, square: 186180588
+Sphere; radius: 3712, density: 787.7570954340389, square: 86575658.48925032
+Tetrahedron; x: 5814, density: 935.2857966152023, square: 58547813.699724495
+Sphere; radius: 5266, density: 874.1775889849164, square: 174237478.65618217
+Sphere; radius: 1754, density: 418.35237623064614, square: 19330320.128502913
+Parallelepiped; x: 4549, y: 5523, z: 2874, density: 608.8134956324442, square: 108142110
+Sphere; radius: 691, density: 788.9719460276585, square: 3000101.603657416
+Sphere; radius: 618, density: 902.0583701700723, square: 2399699.265259256
+Tetrahedron; x: 928, density: 674.1559752963044, square: 1491614.442665396
+Sphere; radius: 6674, density: 208.2377241611889, square: 279867374.11153793
+Sphere; radius: 2489, density: 462.2108774861162, square: 38925093.24339971
+Tetrahedron; x: 312, density: 76.1630171113884, square: 168604.7538119848
+Sphere; radius: 2296, density: 399.8697863207421, square: 33122540.19629282
+Parallelepiped; x: 5162, y: 692, z: 9034, density: 862.5185512724968, square: 112914280
+Sphere; radius: 2495, density: 544.9071051418116, square: 39112985.6168256
+Tetrahedron; x: 3506, density: 614.0912414566889, square: 21290430.880465712
+Tetrahedron; x: 7181, density: 737.4482962864266, square: 89316250.03376128
+Tetrahedron; x: 1797, density: 251.7419359247822, square: 5593154.056258686
+Parallelepiped; x: 1618, y: 7149, z: 719, density: 959.508051508458, square: 35741110
+Tetrahedron; x: 8792, density: 992.665511208435, square: 133886252.63567984
+Sphere; radius: 5377, density: 52.84807235871314, square: 181660264.13208082
+Sphere; radius: 9814, density: 704.0425125777243, square: 605162454.4541378
+Parallelepiped; x: 9018, y: 3511, z: 9774, density: 554.2649327283797, square: 308241288
+Sphere; radius: 2689, density: 536.0660924512948, square: 45431959.94751489
+Sphere; radius: 5363, density: 636.9408554574145, square: 180715524.38929328
+Parallelepiped; x: 7351, y: 4808, z: 9947, density: 439.26794175172654, square: 312578362
+Parallelepiped; x: 3905, y: 3697, z: 5241, density: 828.3427403915038, square: 108557734
+Parallelepiped; x: 3638, y: 9975, z: 5674, density: 763.259916161234, square: 227058424
+Parallelepiped; x: 7787, y: 2102, z: 5832, density: 478.7424844332262, square: 148081844
+Parallelepiped; x: 5805, y: 2331, z: 4297, density: 570.8453435801806, square: 96983694
+Parallelepiped; x: 3870, y: 5713, z: 1761, density: 50.48466692267528, square: 77969946
+Parallelepiped; x: 612, y: 7521, z: 9374, density: 210.46306953727733, square: 161683188
+Parallelepiped; x: 1351, y: 296, z: 3312, density: 476.9700016953341, square: 11709520
+Parallelepiped; x: 6114, y: 8321, z: 2936, density: 284.606572608867, square: 186511508
+Parallelepiped; x: 1680, y: 8558, z: 1951, density: 822.566083733314, square: 68703556
+Tetrahedron; x: 7950, density: 994.3083968239525, square: 109469941.16537195
+Parallelepiped; x: 982, y: 7735, z: 426, density: 630.7582466648877, square: 22618424
+Sphere; radius: 3531, density: 105.45855487925438, square: 78338509.3656881
+Tetrahedron; x: 1511, density: 749.2662062701286, square: 3954481.5718274624
+Tetrahedron; x: 9757, density: 0.31935956113848807, square: 164889589.70023912
+Parallelepiped; x: 9528, y: 9570, z: 3315, density: 118.5820193209356, square: 308985660
+Parallelepiped; x: 8800, y: 4759, z: 7006, density: 888.7418326844213, square: 273747108
+Sphere; radius: 3942, density: 798.8353699842681, square: 97636703.5677154
+Tetrahedron; x: 1001, density: 816.2056686293834, square: 1735516.6412348226
+Tetrahedron; x: 5019, density: 76.64724099288456, square: 43630985.11300155
+Sphere; radius: 5089, density: 140.52055710623767, square: 162721436.71369767
+Parallelepiped; x: 9234, y: 4577, z: 2766, density: 532.6752932900062, square: 160930488
+Parallelepiped; x: 5168, y: 121, z: 2330, density: 543.4884849730392, square: 25897396
+Tetrahedron; x: 8234, density: 214.14574032214483, square: 117430890.08196525
+Sphere; radius: 2492, density: 514.65904131758, square: 39018982.881444894
+Parallelepiped; x: 5471, y: 1464, z: 5219, density: 696.7355007566146, square: 88406618
+Parallelepiped; x: 2639, y: 3533, z: 1255, density: 981.450409954494, square: 34138894
+Sphere; radius: 5950, density: 998.5634534416089, square: 222440467.83742532
+Tetrahedron; x: 9256, density: 677.028187326251, square: 148390917.21608126
+Tetrahedron; x: 75, density: 294.64584951264163, square: 9742.785792574934
+Sphere; radius: 1044, density: 381.18509532089286, square: 6848269.860966089
+Parallelepiped; x: 3707, y: 5118, z: 4798, density: 41.75681888307092, square: 122629552
+Sphere; radius: 6262, density: 177.07604223155883, square: 246380308.63646373
+Sphere; radius: 6800, density: 838.9077009579747, square: 290534488.60398406
+Tetrahedron; x: 6702, density: 747.5306070487939, square: 77798186.64161298
+Parallelepiped; x: 3789, y: 9233, z: 5924, density: 800.6667803757172, square: 224252330
+Sphere; radius: 9630, density: 218.4186510741887, square: 582683127.5133826
+Tetrahedron; x: 2692, density: 963.9241774240157, square: 12551936.643541824
+Parallelepiped; x: 6973, y: 4488, z: 6228, density: 126.67120558400025, square: 205347864
+Sphere; radius: 8180, density: 976.4117794384777, square: 420423008.54812336
+Parallelepiped; x: 5041, y: 9113, z: 1673, density: 765.9203628524995, square: 139236550
+Sphere; radius: 2211, density: 441.0742313144367, square: 30715483.321038857
+Parallelepiped; x: 2968, y: 5012, z: 1333, density: 622.4810256255626, square: 51025912
+Sphere; radius: 7497, density: 805.6351854273184, square: 353146486.73869646
+Parallelepiped; x: 8900, y: 1471, z: 9134, density: 14.009278380628487, square: 215641228
+Parallelepiped; x: 911, y: 1948, z: 7229, density: 425.5004130858748, square: 44884678
+Sphere; radius: 2317, density: 7.453573141578795, square: 33731211.206555225
+Parallelepiped; x: 9137, y: 7041, z: 7625, density: 701.9593983144391, square: 375381734
+Sphere; radius: 1434, density: 323.26645588718037, square: 12920465.805530585
+Parallelepiped; x: 8867, y: 8818, z: 7271, density: 263.438297709797, square: 413553682
+Parallelepiped; x: 5464, y: 6719, z: 9549, density: 378.15515913349253, square: 306096166
+Parallelepiped; x: 612, y: 335, z: 7106, density: 785.5253538368718, square: 13868804
+Tetrahedron; x: 9586, density: 615.1502556616871, square: 159160566.65043148
+Sphere; radius: 66, density: 304.43598335900225, square: 27369.55519807428
+Tetrahedron; x: 2679, density: 589.3964691692513, square: 12430999.660004942
+Parallelepiped; x: 5351, y: 3737, z: 7459, density: 807.1495493764023, square: 175568158
+Tetrahedron; x: 3104, density: 204.45694986742947, square: 16687990.83357754
+Sphere; radius: 8444, density: 436.87972345370406, square: 447998250.10041344
+Parallelepiped; x: 8033, y: 3406, z: 8929, density: 634.8206316974947, square: 258998458
+Sphere; radius: 1650, density: 712.0985969806395, square: 17105971.998796426
+Parallelepiped; x: 8132, y: 1316, z: 727, density: 678.124211821453, square: 35140816
+Tetrahedron; x: 8988, density: 543.9795871759413, square: 139922241.85396045
+Sphere; radius: 8156, density: 973.8233546078441, square: 417959597.7838493
+Parallelepiped; x: 2917, y: 7453, z: 1619, density: 190.45741128409298, square: 77058862
+Sphere; radius: 602, density: 124.46353256066945, square: 2277051.4880631105
+Sphere; radius: 8455, density: 739.6104334384067, square: 449166225.1339798
+Sphere; radius: 746, density: 645.1512137276155, square: 3496693.154410355
+Tetrahedron; x: 9967, density: 463.8928558084362, square: 172063813.42722172
+Sphere; radius: 1390, density: 904.5237795720185, square: 12139742.332001679
+Tetrahedron; x: 1263, density: 496.11281763487267, square: 2762913.7546588383
+Sphere; radius: 7387, density: 537.3469045576086, square: 342859404.4263697
+Parallelepiped; x: 5697, y: 6264, z: 244, density: 43.432956273114385, square: 77208984
+Parallelepiped; x: 1195, y: 3607, z: 5882, density: 530.4446903070756, square: 65111458
+Tetrahedron; x: 293, density: 355.3127956414368, square: 148694.82977898055
+Parallelepiped; x: 3891, y: 5256, z: 7794, density: 587.7628851689715, square: 183485628
+Tetrahedron; x: 3826, density: 456.3430526193634, square: 25354237.767216112
+Parallelepiped; x: 6646, y: 726, z: 3399, density: 649.4046615918492, square: 59764848
+Sphere; radius: 3560, density: 996.7162561078301, square: 79630577.3090712
+Parallelepiped; x: 5848, y: 5758, z: 9083, density: 213.56340570095088, square: 278180164
+Parallelepiped; x: 5348, y: 1127, z: 3573, density: 991.0659688851099, square: 58324742
+Sphere; radius: 6506, density: 636.7464992821937, square: 265954893.8769686
+Parallelepiped; x: 565, y: 8245, z: 1283, density: 643.8050505040909, square: 31923310
+Tetrahedron; x: 9249, density: 205.39248722256508, square: 148166556.01472282
+Sphere; radius: 9560, density: 318.01181876615357, square: 574242924.6902483
+Tetrahedron; x: 9320, density: 621.5144952106797, square: 150450090.06737083
+Sphere; radius: 432, density: 482.0972421454259, square: 1172593.174767083
+Sphere; radius: 1685, density: 212.838716785414, square: 17839376.80377696
+Tetrahedron; x: 9665, density: 677.6436718156921, square: 161794719.74805567
+Tetrahedron; x: 1532, density: 426.3107247910568, square: 4065164.8145835362
+Parallelepiped; x: 6491, y: 3238, z: 7876, density: 491.7476537347363, square: 195286924
+Tetrahedron; x: 4579, density: 171.1865582474207, square: 36316326.70654127
+Tetrahedron; x: 5032, density: 395.4239896456927, square: 43857300.06767092
+Parallelepiped; x: 585, y: 7688, z: 5916, density: 452.11514075887817, square: 106881096
+Tetrahedron; x: 3589, density: 860.9360503559561, square: 22310409.62028091
+Parallelepiped; x: 2046, y: 7678, z: 9949, density: 871.2732010144477, square: 224906528
+Parallelepiped; x: 5745, y: 147, z: 5608, density: 30.726989585723064, square: 67773702
+Sphere; radius: 8426, density: 505.0600470569029, square: 446090298.0500353
+Sphere; radius: 5019, density: 681.0088333236746, square: 158275706.11774966
+Sphere; radius: 1569, density: 956.0194232760078, square: 15467700.544987725
+Tetrahedron; x: 6191, density: 266.12850232887484, square: 66386876.468938366
+Tetrahedron; x: 8383, density: 800.0383912561631, square: 121719331.83410169
+Sphere; radius: 5343, density: 436.36175302292236, square: 179370168.75132
+Parallelepiped; x: 5956, y: 9820, z: 5355, density: 383.09525468670824, square: 285936800
+Parallelepiped; x: 9207, y: 5821, z: 3903, density: 689.4613115377764, square: 224496462
+Parallelepiped; x: 6355, y: 8230, z: 634, density: 640.1011681820113, square: 123097080
+Sphere; radius: 1044, density: 223.9440786400948, square: 6848269.860966089
+Parallelepiped; x: 8397, y: 8513, z: 8970, density: 418.3686807447905, square: 446332722
+Parallelepiped; x: 5154, y: 2440, z: 29, density: 781.1911320800147, square: 25591972
+Sphere; radius: 2673, density: 502.47518726226724, square: 44892912.913641326
+Sphere; radius: 4655, density: 111.65178368175965, square: 136150499.50090712
+Sphere; radius: 8775, density: 456.6388905417385, square: 483809195.64364517
+Parallelepiped; x: 4130, y: 4047, z: 3653, density: 685.3692072453972, square: 93169382
+Tetrahedron; x: 2024, density: 128.3530063621121, square: 7095477.769067281
+Sphere; radius: 7044, density: 504.2253403401652, square: 311758686.44777703
+Tetrahedron; x: 3075, density: 72.51205258706739, square: 16377622.917318465
+Parallelepiped; x: 5091, y: 6151, z: 4341, density: 465.60660434880896, square: 160232526
+Sphere; radius: 7033, density: 839.9538487688436, square: 310785754.0525162
+Parallelepiped; x: 2450, y: 3398, z: 3501, density: 914.66440098505, square: 57597896
+Parallelepiped; x: 482, y: 7588, z: 2726, density: 276.3853174114729, square: 51312472
+Parallelepiped; x: 1609, y: 3766, z: 8072, density: 217.60222428580755, square: 98892988
+Parallelepiped; x: 4016, y: 8882, z: 106, density: 26.86544459077855, square: 74074600
+Sphere; radius: 1480, density: 948.5298916167696, square: 13762689.096846165
+Tetrahedron; x: 3863, density: 125.2823385117482, square: 25846994.097613808
+Sphere; radius: 9996, density: 66.83439223577936, square: 627815976.4243492
+Tetrahedron; x: 5702, density: 593.5000205628609, square: 56313828.42452862
+Parallelepiped; x: 1213, y: 7256, z: 6566, density: 475.10435940614747, square: 128817964
+Parallelepiped; x: 2450, y: 2190, z: 7755, density: 437.8986859516285, square: 82697400
+Tetrahedron; x: 8781, density: 643.2062575386294, square: 133551442.01842435
+Parallelepiped; x: 7737, y: 5283, z: 1293, density: 687.1349756086217, square: 115418862
+Sphere; radius: 1485, density: 614.4857520423282, square: 13855837.319025105
+Tetrahedron; x: 2017, density: 205.2849842199205, square: 7046483.24787358
+Parallelepiped; x: 257, y: 1197, z: 7181, density: 932.4978593297462, square: 21497606
+Sphere; radius: 5239, density: 490.6185991318509, square: 172455347.39158028
+Tetrahedron; x: 9438, density: 833.0356013192579, square: 154283887.53507933
+Parallelepiped; x: 9485, y: 1944, z: 4279, density: 442.5928267447039, square: 134687062
+Parallelepiped; x: 7320, y: 5636, z: 146, density: 479.84375534077026, square: 86294192
+Sphere; radius: 3263, density: 456.943313273247, square: 66898135.82385796
+Parallelepiped; x: 3602, y: 4484, z: 1849, density: 643.1160603472653, square: 62204764
+Parallelepiped; x: 7672, y: 7340, z: 8936, density: 383.388700521096, square: 380919424
+Parallelepiped; x: 6736, y: 8947, z: 4549, density: 391.28668491639985, square: 263217918
+Tetrahedron; x: 7863, density: 352.1676114533815, square: 107087105.17582442
+Sphere; radius: 9811, density: 869.7412209204767, square: 604792531.9191775
+Tetrahedron; x: 3389, density: 207.7144126629531, square: 19893159.513237786
+Parallelepiped; x: 4520, y: 9113, z: 2245, density: 317.0157396888178, square: 143593690
+Sphere; radius: 7365, density: 676.8794077762386, square: 340820234.3340364
+Parallelepiped; x: 9417, y: 8530, z: 3401, density: 778.2977819579881, square: 282729514
+Sphere; radius: 7754, density: 737.2575484508063, square: 377773475.53248394
+Parallelepiped; x: 1633, y: 3412, z: 4833, density: 974.4502843826434, square: 59908562
+Tetrahedron; x: 2550, density: 683.857174418567, square: 11262660.376216624
+Tetrahedron; x: 5395, density: 883.5106810104182, square: 50413114.10636993
+Sphere; radius: 8220, density: 44.70896139167835, square: 424544778.10963315
+Sphere; radius: 8562, density: 999.0188280235653, square: 460606768.32181317
+Tetrahedron; x: 5696, density: 497.1717128752621, square: 56195376.9339006
+Sphere; radius: 6990, density: 803.5848553584303, square: 306997062.4273253
+Sphere; radius: 2783, density: 936.9110141395458, square: 48663829.40759823
+Parallelepiped; x: 326, y: 1971, z: 8678, density: 406.3217705608617, square: 41151824
+Tetrahedron; x: 7329, density: 493.8812630864623, square: 93035794.50199929
+Tetrahedron; x: 2246, density: 363.4291954077102, square: 8737358.011594122
+Parallelepiped; x: 2858, y: 4217, z: 7951, density: 626.5939845892726, square: 136611022
+Parallelepiped; x: 3381, y: 6721, z: 8176, density: 647.4237778785629, square: 210635306
+Sphere; radius: 3935, density: 359.36626213582366, square: 97290255.01306282
+Sphere; radius: 5697, density: 384.6334710853705, square: 203925862.24142697
+Parallelepiped; x: 490, y: 2415, z: 597, density: 561.6074698724846, square: 5835270
+Sphere; radius: 6231, density: 371.5356664330778, square: 243946937.78114334
+Sphere; radius: 8375, density: 663.7427154257484, square: 440706544.4363932
+Parallelepiped; x: 7464, y: 7871, z: 8115, density: 537.8922245446481, square: 366385338
+Sphere; radius: 227, density: 318.5457733123226, square: 323766.25569365686
+Sphere; radius: 4728, density: 333.54721022519504, square: 140454223.82572755
+Sphere; radius: 3556, density: 476.8931499305624, square: 79451732.72248764
+Sphere; radius: 1437, density: 78.38555636807965, square: 12974582.880581323
+Tetrahedron; x: 2498, density: 367.4696209227345, square: 10808003.967433024
+Sphere; radius: 6189, density: 947.000839785093, square: 240669376.99750614
+Parallelepiped; x: 4816, y: 4156, z: 6459, density: 434.3563227157702, square: 155930888
+Tetrahedron; x: 8280, density: 82.09772264774318, square: 118746632.0856301
+Sphere; radius: 2380, density: 928.5953598183236, square: 35590474.853988044
+Tetrahedron; x: 3317, density: 526.7773228904342, square: 19056869.957717687
+Tetrahedron; x: 5801, density: 879.3032653770287, square: 58286282.68803564
+Parallelepiped; x: 5870, y: 7680, z: 168, density: 712.3219928390332, square: 94716000
+Tetrahedron; x: 4086, density: 203.20033786196078, square: 28917274.124482203
+Parallelepiped; x: 3062, y: 905, z: 7074, density: 899.2401431088659, square: 61667336
+Sphere; radius: 5747, density: 315.9704661111362, square: 207521100.87419516
+Parallelepiped; x: 5109, y: 5104, z: 7608, density: 692.715362222677, square: 207553680
+Sphere; radius: 7867, density: 700.7352290347192, square: 388864384.59071404
+Sphere; radius: 6877, density: 784.7463247245116, square: 297151493.2633488
+Sphere; radius: 926, density: 19.064723835622964, square: 5387680.604459123
+Tetrahedron; x: 4080, density: 107.25107519750665, square: 28832410.563114557
+Parallelepiped; x: 2785, y: 2384, z: 6385, density: 484.7092044724737, square: 79287010
+Tetrahedron; x: 2127, density: 906.7336307637007, square: 7836021.287995777
+Sphere; radius: 9825, density: 905.261667794685, square: 606519804.6928624
+Sphere; radius: 873, density: 401.9062858478678, square: 4788597.734975471
+Tetrahedron; x: 147, density: 592.4790283300869, square: 37427.885900755864
+Tetrahedron; x: 8764, density: 178.4489175812345, square: 133034831.88430482
+Parallelepiped; x: 3924, y: 9661, z: 4550, density: 254.22891162701845, square: 199443028
+Tetrahedron; x: 5544, density: 368.34350682824066, square: 53236202.77018532
+Parallelepiped; x: 5602, y: 7225, z: 7495, density: 98.84617598348733, square: 273225630
+Sphere; radius: 8418, density: 821.63465390052, square: 445243626.2635222
+Parallelepiped; x: 3065, y: 6977, z: 4475, density: 472.17060038342083, square: 132644910
+Sphere; radius: 7784, density: 782.1793069922219, square: 380702319.53157264
+Sphere; radius: 5583, density: 251.01177565549705, square: 195846188.5912186
+Parallelepiped; x: 4942, y: 8194, z: 8357, density: 879.5582284184596, square: 300544600
+Sphere; radius: 1383, density: 190.41636374299452, square: 12017779.422004016
+Parallelepiped; x: 3662, y: 9726, z: 2548, density: 422.26184060579305, square: 139458472
+Tetrahedron; x: 6481, density: 649.8236058531243, square: 72751955.34065709
+Tetrahedron; x: 478, density: 347.4004731108374, square: 395745.89671656734
+Parallelepiped; x: 5629, y: 1310, z: 5687, density: 799.9677081816332, square: 93672166
+Sphere; radius: 3355, density: 9.016464076560315, square: 70723690.89724611
+Tetrahedron; x: 5326, density: 44.800181300196584, square: 49131831.25352166
+Parallelepiped; x: 353, y: 7821, z: 6609, density: 831.0382507492396, square: 113565558
+Parallelepiped; x: 9306, y: 6513, z: 6400, density: 771.7608282307684, square: 323703156
+Sphere; radius: 6866, density: 495.42269064479973, square: 296201645.2909065
+Sphere; radius: 4039, density: 731.9908544840782, square: 102500875.45556563
+Sphere; radius: 7861, density: 74.78691662166159, square: 388271452.95964617
+Tetrahedron; x: 5118, density: 241.47796375152464, square: 45369207.2175978
+Sphere; radius: 89, density: 748.3899887252439, square: 49769.11081816951
+Parallelepiped; x: 1827, y: 6974, z: 8610, density: 403.95197125449033, square: 177036216
+Tetrahedron; x: 8975, density: 256.7459064127545, square: 139517775.08142778
+Parallelepiped; x: 934, y: 3518, z: 8515, density: 231.0253333861393, square: 82389184
+Sphere; radius: 5600, density: 608.5593286026331, square: 197040691.2331518
+Sphere; radius: 4794, density: 636.7303027362335, square: 144402904.19839516
+Parallelepiped; x: 2877, y: 4066, z: 828, density: 312.603875432908, square: 34893372
+Tetrahedron; x: 86, density: 846.5032480562357, square: 12810.247772779416
+Sphere; radius: 7021, density: 6.489693111352057, square: 309726107.416831
+Tetrahedron; x: 4501, density: 364.49528130413444, square: 35089619.04258869
+Parallelepiped; x: 1214, y: 2865, z: 1145, density: 289.69653255449714, square: 16297130
+Sphere; radius: 7106, density: 730.8812782026581, square: 317270924.91776574
+Tetrahedron; x: 6123, density: 327.65872106931727, square: 64936540.26111895
+Sphere; radius: 5893, density: 593.6252459592093, square: 218198997.3126284
+Parallelepiped; x: 3711, y: 9831, z: 7223, density: 446.7375647092191, square: 268593414
+Parallelepiped; x: 5345, y: 3873, z: 3528, density: 922.1419844144708, square: 106444578
+Tetrahedron; x: 4342, density: 450.9414499822565, square: 32654291.52126697
+Tetrahedron; x: 9533, density: 80.15150224890932, square: 157405467.4427663
+Tetrahedron; x: 4767, density: 792.6025447546173, square: 39359623.113878556
+Parallelepiped; x: 1398, y: 4659, z: 6092, density: 482.5340159190412, square: 86825052
+Sphere; radius: 6944, density: 750.1308371576425, square: 302969766.8400942
+Parallelepiped; x: 273, y: 7348, z: 147, density: 249.24630043748886, square: 6252582
+Tetrahedron; x: 4963, density: 379.50308978646166, square: 42662782.567977004
+Tetrahedron; x: 2870, density: 488.69215767172255, square: 14266729.296864085
+Parallelepiped; x: 7305, y: 7528, z: 3914, density: 329.5312175581645, square: 226096804
+Tetrahedron; x: 5641, density: 98.45037995319439, square: 55115382.63360314
+Sphere; radius: 2560, density: 988.0274769817131, square: 41177483.22913214
+Parallelepiped; x: 6917, y: 6240, z: 5703, density: 207.48055086627704, square: 236392902
+Parallelepiped; x: 6997, y: 3561, z: 5624, density: 713.9284422049824, square: 168589018
+Parallelepiped; x: 6493, y: 4467, z: 5586, density: 416.4521599834383, square: 180453582
+Tetrahedron; x: 56, density: 137.6182473632682, square: 5431.711332535999
+Sphere; radius: 8099, density: 937.9638009067693, square: 412138006.68526167
+Parallelepiped; x: 3959, y: 4903, z: 5755, density: 136.24672734401656, square: 140823574
+Parallelepiped; x: 597, y: 7649, z: 1222, density: 184.32157343189726, square: 29286130
+Sphere; radius: 3643, density: 786.0574458447795, square: 83386973.3617832
+Parallelepiped; x: 1638, y: 5459, z: 1987, density: 825.6024474265517, square: 46087162
+Sphere; radius: 3959, density: 505.8718593583842, square: 98480642.16861984
+Parallelepiped; x: 8000, y: 6449, z: 821, density: 105.7699538021647, square: 126909258
+Tetrahedron; x: 6182, density: 514.5403411051983, square: 66194000.487159915
+Parallelepiped; x: 4219, y: 9, z: 1675, density: 850.9478988658552, square: 14239742
+Tetrahedron; x: 9882, density: 181.6498204583803, square: 169141557.92646977
+Tetrahedron; x: 8720, density: 994.2541879070603, square: 131702372.1262453
+Tetrahedron; x: 4786, density: 553.7861066857007, square: 39674002.459807955
+Sphere; radius: 3096, density: 441.58950726699055, square: 60225688.33734269
+Parallelepiped; x: 4488, y: 874, z: 4661, density: 292.835370641452, square: 57829588
+Tetrahedron; x: 5747, density: 324.7136868635293, square: 57206189.66084214
+Parallelepiped; x: 6632, y: 6782, z: 3892, density: 437.1036369920769, square: 194371024
+Sphere; radius: 323, density: 179.43083664180938, square: 655518.439912739
+Sphere; radius: 6980, density: 843.45647400589, square: 306119301.4399123
+Tetrahedron; x: 2465, density: 97.92527568348908, square: 10524330.418220202
+Parallelepiped; x: 1323, y: 4764, z: 6445, density: 629.4871966147214, square: 91066974
+Sphere; radius: 8912, density: 960.3861781530737, square: 499034101.34199286
+Tetrahedron; x: 993, density: 276.9962258913977, square: 1707886.9667524837
+Sphere; radius: 9708, density: 402.74177694553714, square: 592160458.0360612
+Parallelepiped; x: 8945, y: 6847, z: 1759, density: 808.1623791125378, square: 178049086
+Tetrahedron; x: 3461, density: 857.1417152528687, square: 20747406.971530754
+Tetrahedron; x: 9239, density: 32.12220120623543, square: 147846334.4614195
+Tetrahedron; x: 2841, density: 441.60289417892915, square: 13979868.774165334
+Tetrahedron; x: 8890, density: 376.19818835507647, square: 136887612.62886426
+Sphere; radius: 1207, density: 702.5543420492039, square: 9153652.231579272
+Tetrahedron; x: 9641, density: 927.2833473999625, square: 160992184.39867347
+Tetrahedron; x: 118, density: 628.726363475024, square: 24117.075444589045
+Parallelepiped; x: 537, y: 6073, z: 5825, density: 657.5542962564288, square: 83528902
+Sphere; radius: 1417, density: 11.910714247718168, square: 12615938.66324751
+Parallelepiped; x: 903, y: 9385, z: 5289, density: 4.097985650688751, square: 125775774
+Tetrahedron; x: 6519, density: 72.63932419649699, square: 73607588.4395961
+Sphere; radius: 1967, density: 970.5531545258108, square: 24310203.15697016
+Tetrahedron; x: 6594, density: 731.9393422249507, square: 75311017.1075699
+Tetrahedron; x: 5128, density: 496.5936872383865, square: 45546673.1433413
+Parallelepiped; x: 102, y: 9800, z: 9712, density: 764.6490210873211, square: 194335648
+Parallelepiped; x: 4528, y: 812, z: 2975, density: 565.7819451809935, square: 39126472
+Parallelepiped; x: 418, y: 4798, z: 7667, density: 541.2989619629578, square: 83993272
+Sphere; radius: 2602, density: 326.0800623589547, square: 42539702.9364699
+Parallelepiped; x: 6351, y: 8589, z: 9175, density: 211.12440034137015, square: 383246478
+Tetrahedron; x: 7990, density: 421.16067842699, square: 110574296.76027788
+Sphere; radius: 203, density: 964.7654754598569, square: 258923.78332356358
+Tetrahedron; x: 1956, density: 18.16694358772708, square: 6626715.538506839
+Parallelepiped; x: 3027, y: 1236, z: 7471, density: 835.5220564297038, square: 71180490
+Tetrahedron; x: 8135, density: 699.9835974529298, square: 114624048.05472486
+Parallelepiped; x: 7967, y: 2422, z: 5284, density: 678.4096451392172, square: 148383100
+Sphere; radius: 4526, density: 552.0895970272175, square: 128709015.2655343
+Tetrahedron; x: 7596, density: 679.1502756656092, square: 99937973.66889109
+Sphere; radius: 8213, density: 242.1197669416939, square: 423822017.020563
+Sphere; radius: 5602, density: 14.958201524278403, square: 197181459.71677387
+Sphere; radius: 4620, density: 338.67728499731174, square: 134110820.47056396
+Parallelepiped; x: 9848, y: 7663, z: 3854, density: 304.20136192007266, square: 285905236
+Parallelepiped; x: 4370, y: 4496, z: 5029, density: 442.54186544242515, square: 128469268
+Parallelepiped; x: 749, y: 4653, z: 5082, density: 517.9858519273378, square: 61876122
+Parallelepiped; x: 9061, y: 2951, z: 2728, density: 58.951074436819574, square: 119015494
+Sphere; radius: 9172, density: 31.63173141129716, square: 528576633.3467021
+Parallelepiped; x: 471, y: 9138, z: 9423, density: 440.5697958631286, square: 189699210
+Sphere; radius: 8657, density: 950.3831613181216, square: 470884834.26322407
+Parallelepiped; x: 2821, y: 5613, z: 9391, density: 504.7738622807817, square: 190075934
+Tetrahedron; x: 3409, density: 381.4813987092893, square: 20128649.14103485
+Parallelepiped; x: 3745, y: 5986, z: 7161, density: 128.3350941620185, square: 184202522
+Sphere; radius: 91, density: 639.6339188884496, square: 52031.05752875415
+Tetrahedron; x: 5586, density: 187.1961591152568, square: 54045867.240691476
+Parallelepiped; x: 1056, y: 9412, z: 393, density: 50.35567649883277, square: 28105992
+Sphere; radius: 1259, density: 103.56242645803515, square: 9959357.649889525
+Sphere; radius: 7549, density: 751.2398790277341, square: 358062400.6575513
+Sphere; radius: 7088, density: 994.1603077953628, square: 315665621.33726376
+Sphere; radius: 8750, density: 143.01942400499178, square: 481056375.080937
+Sphere; radius: 5205, density: 302.9804850426178, square: 170224213.42174205
+Tetrahedron; x: 6829, density: 203.7552599152046, square: 80774606.83521922
+Parallelepiped; x: 1242, y: 5909, z: 773, density: 584.4370975067988, square: 25733402
+Sphere; radius: 4971, density: 424.77451927709274, square: 155262793.0992509
+Tetrahedron; x: 8172, density: 365.1454926292034, square: 115669096.49792881
+Tetrahedron; x: 5, density: 334.1705966804257, square: 43.30127018922193
+Sphere; radius: 9021, density: 115.94121609121355, square: 511315824.81238085
+Parallelepiped; x: 978, y: 8656, z: 7193, density: 748.3398298467877, square: 155525860
+Tetrahedron; x: 2752, density: 242.1340913814477, square: 13117693.719326122
+Sphere; radius: 24, density: 544.7854453186292, square: 3619.1147369354417
+Tetrahedron; x: 7120, density: 480.1045191191422, square: 87805276.4592197
+Parallelepiped; x: 251, y: 2597, z: 4178, density: 410.1216182330929, square: 25101582
+Sphere; radius: 4542, density: 334.5807497577036, square: 129620630.05538237
+Parallelepiped; x: 9405, y: 9503, z: 3087, density: 582.4448594508005, square: 295489422
+Tetrahedron; x: 6820, density: 979.8141760790276, square: 80561839.98196664
+Parallelepiped; x: 4735, y: 7544, z: 5892, density: 521.5875505706655, square: 216137416
+Tetrahedron; x: 2217, density: 718.085526392924, square: 8513183.871722905
+Tetrahedron; x: 9987, density: 627.2319809547813, square: 172755040.2635063
+Parallelepiped; x: 9217, y: 4887, z: 425, density: 909.9888616882316, square: 102075358
+Tetrahedron; x: 4852, density: 791.9344895225092, square: 40775773.83490898
+Parallelepiped; x: 8636, y: 5988, z: 9981, density: 158.0664619930453, square: 395349024
+Sphere; radius: 8515, density: 195.86479817611368, square: 455563764.41375
+Parallelepiped; x: 5410, y: 8086, z: 8112, density: 12.420704778725366, square: 306449624
+Parallelepiped; x: 6669, y: 1384, z: 6796, density: 9.242831323518551, square: 127916168
+Parallelepiped; x: 8712, y: 5016, z: 9498, density: 909.1512906962707, square: 348175872
+Tetrahedron; x: 5269, density: 612.4701699460335, square: 48085819.7900687
+Tetrahedron; x: 8992, density: 236.9942117818894, square: 140046810.9480408
+Tetrahedron; x: 1429, density: 885.6959526259103, square: 3536918.7631387576
+Parallelepiped; x: 8750, y: 9409, z: 3239, density: 383.5546072400854, square: 282291502
+Parallelepiped; x: 4436, y: 1522, z: 5270, density: 143.34694518516534, square: 76300504
+Tetrahedron; x: 3859, density: 815.8086795628069, square: 25793494.51226962
+Parallelepiped; x: 4082, y: 2125, z: 3166, density: 998.9692343734491, square: 56651224
+Sphere; radius: 1330, density: 871.2984995569883, square: 11114326.48986997
+Sphere; radius: 174, density: 41.47354649712065, square: 190229.71836016915
+Parallelepiped; x: 3470, y: 7249, z: 2256, density: 689.8879237674279, square: 98672188
+Parallelepiped; x: 6883, y: 125, z: 7856, density: 100.42359330751837, square: 111830446
+Parallelepiped; x: 5799, y: 1837, z: 1765, density: 303.3429578036633, square: 48260606
+Sphere; radius: 209, density: 55.23649325395408, square: 274455.81740291155
+Parallelepiped; x: 4383, y: 158, z: 5204, density: 768.9399341208729, square: 48647756
+Tetrahedron; x: 5814, density: 616.7294952799529, square: 58547813.699724495
+Sphere; radius: 8610, density: 681.7031223044266, square: 465785721.5103678
+Parallelepiped; x: 7218, y: 1800, z: 2570, density: 533.5689589722743, square: 72337320
+Tetrahedron; x: 1677, density: 114.767249816768, square: 4871096.715599373
+Sphere; radius: 1337, density: 72.58097643975947, square: 11231627.276369706
+Sphere; radius: 4346, density: 778.5770359260588, square: 118675019.65738079
+Sphere; radius: 3168, density: 390.74695462161003, square: 63059455.17636314
+Parallelepiped; x: 9484, y: 1491, z: 1750, density: 390.122688147166, square: 66693788
+Tetrahedron; x: 4192, density: 523.5685171211856, square: 30437093.28249805
+Parallelepiped; x: 2276, y: 4365, z: 6300, density: 449.6768166655311, square: 103546080
+Tetrahedron; x: 1261, density: 817.0087536980964, square: 2754170.3621822307
+Sphere; radius: 2494, density: 842.6363356186439, square: 39081638.805328086
+Parallelepiped; x: 9596, y: 8949, z: 2041, density: 578.5595718735972, square: 247449898
+Tetrahedron; x: 7385, density: 982.3419835919883, square: 94462976.65462312
+Parallelepiped; x: 2955, y: 9278, z: 9437, density: 221.58997889574295, square: 285718622
+Parallelepiped; x: 1615, y: 2703, z: 4727, density: 799.5387917453758, square: 49553062
+Sphere; radius: 6498, density: 10.56719169436182, square: 265301241.54309207
+Tetrahedron; x: 2105, density: 53.366942942726816, square: 7674760.429607884
+Tetrahedron; x: 8243, density: 75.9664045478795, square: 117687741.09237207
+Tetrahedron; x: 1152, density: 760.5584170176946, square: 2298611.5549278874
+
+Container contains: 961 elements.
+Sphere; radius: 9996, density: 66.83439223577936, square: 627815976.4243492
+Sphere; radius: 9967, density: 683.2930872200942, square: 624178470.8040196
+Sphere; radius: 9935, density: 770.3878766939973, square: 620176936.276548
+Sphere; radius: 9919, density: 342.7351862360343, square: 618180994.4991281
+Sphere; radius: 9907, density: 439.9560195246818, square: 616686149.3163264
+Sphere; radius: 9902, density: 131.92067606921077, square: 616063831.2275769
+Sphere; radius: 9825, density: 905.261667794685, square: 606519804.6928624
+Sphere; radius: 9814, density: 704.0425125777243, square: 605162454.4541378
+Sphere; radius: 9811, density: 869.7412209204767, square: 604792531.9191775
+Sphere; radius: 9733, density: 431.5298313483776, square: 595214243.1749831
+Sphere; radius: 9708, density: 402.74177694553714, square: 592160458.0360612
+Sphere; radius: 9667, density: 454.50121295420973, square: 587169252.7076705
+Sphere; radius: 9651, density: 347.6624953582055, square: 585227195.5274448
+Sphere; radius: 9630, density: 218.4186510741887, square: 582683127.5133826
+Sphere; radius: 9617, density: 45.458078906594594, square: 581111005.4344878
+Sphere; radius: 9589, density: 463.50462754974143, square: 577732109.4382166
+Sphere; radius: 9579, density: 485.22362490834723, square: 576527748.4785364
+Sphere; radius: 9560, density: 318.01181876615357, square: 574242924.6902483
+Sphere; radius: 9549, density: 154.37309076154338, square: 572922205.4218644
+Parallelepiped; x: 9840, y: 9820, z: 9618, density: 122.32497797354891, square: 571437360
+Sphere; radius: 9447, density: 19.549871574414013, square: 560747955.8361558
+Sphere; radius: 9384, density: 811.6979880525402, square: 553293880.0974272
+Sphere; radius: 9328, density: 457.8725508786841, square: 546709906.1432223
+Sphere; radius: 9268, density: 203.46394552198456, square: 539699379.3048836
+Sphere; radius: 9211, density: 669.7400014873059, square: 533081281.3712755
+Sphere; radius: 9203, density: 74.31443454165998, square: 532155692.7773043
+Sphere; radius: 9172, density: 31.63173141129716, square: 528576633.3467021
+Sphere; radius: 9153, density: 858.6834904341027, square: 526388985.30237484
+Sphere; radius: 9080, density: 32.87337793954348, square: 518026009.109851
+Sphere; radius: 9060, density: 588.0884208650193, square: 515746469.4804063
+Sphere; radius: 9021, density: 115.94121609121355, square: 511315824.81238085
+Sphere; radius: 8998, density: 50.01406289475951, square: 508711840.34322923
+Parallelepiped; x: 9402, y: 9389, z: 8786, density: 123.04673209858619, square: 506746208
+Sphere; radius: 8966, density: 592.2739910506788, square: 505099963.8357677
+Sphere; radius: 8912, density: 960.3861781530737, square: 499034101.34199286
+Sphere; radius: 8824, density: 981.4731938395984, square: 489227506.7764768
+Sphere; radius: 8791, density: 244.06290514247252, square: 485575122.57333976
+Sphere; radius: 8775, density: 456.6388905417385, square: 483809195.64364517
+Sphere; radius: 8750, density: 143.01942400499178, square: 481056375.080937
+Sphere; radius: 8657, density: 950.3831613181216, square: 470884834.26322407
+Parallelepiped; x: 9366, y: 8894, z: 8312, density: 534.0402905207434, square: 470156648
+Parallelepiped; x: 7404, y: 9512, z: 9670, density: 193.72405703172313, square: 468009136
+Sphere; radius: 8616, density: 712.1315031346545, square: 466435126.41097665
+Sphere; radius: 8610, density: 681.7031223044266, square: 465785721.5103678
+Sphere; radius: 8562, density: 999.0188280235653, square: 460606768.32181317
+Sphere; radius: 8515, density: 195.86479817611368, square: 455563764.41375
+Sphere; radius: 8497, density: 991.0000095504607, square: 453639752.5417267
+Sphere; radius: 8463, density: 524.1584608260738, square: 450016616.56619465
+Sphere; radius: 8455, density: 739.6104334384067, square: 449166225.1339798
+Sphere; radius: 8446, density: 200.524971633243, square: 448210496.10008997
+Sphere; radius: 8444, density: 436.87972345370406, square: 447998250.10041344
+Parallelepiped; x: 8397, y: 8513, z: 8970, density: 418.3686807447905, square: 446332722
+Sphere; radius: 8426, density: 505.0600470569029, square: 446090298.0500353
+Sphere; radius: 8418, density: 821.63465390052, square: 445243626.2635222
+Sphere; radius: 8375, density: 663.7427154257484, square: 440706544.4363932
+Sphere; radius: 8271, density: 726.733733281866, square: 429829194.5635688
+Sphere; radius: 8254, density: 381.34308372506274, square: 428064090.7311493
+Sphere; radius: 8240, density: 269.51676726828856, square: 426613202.7127567
+Sphere; radius: 8224, density: 558.9843364352113, square: 424958060.9063982
+Sphere; radius: 8220, density: 44.70896139167835, square: 424544778.10963315
+Sphere; radius: 8213, density: 81.69992469220855, square: 423822017.020563
+Sphere; radius: 8213, density: 242.1197669416939, square: 423822017.020563
+Sphere; radius: 8204, density: 85.19621497187147, square: 422893657.54187125
+Sphere; radius: 8180, density: 976.4117794384777, square: 420423008.54812336
+Sphere; radius: 8156, density: 973.8233546078441, square: 417959597.7838493
+Sphere; radius: 8149, density: 907.131941665021, square: 417242466.42881435
+Sphere; radius: 8135, density: 31.464840271753893, square: 415810050.9752248
+Parallelepiped; x: 8867, y: 8818, z: 7271, density: 263.438297709797, square: 413553682
+Sphere; radius: 8099, density: 937.9638009067693, square: 412138006.68526167
+Parallelepiped; x: 8762, y: 9310, z: 6834, density: 928.7545904599909, square: 410156536
+Sphere; radius: 8017, density: 884.4328085171878, square: 403834701.9036001
+Sphere; radius: 8001, density: 58.72714833580805, square: 402224396.9075937
+Parallelepiped; x: 8636, y: 5988, z: 9981, density: 158.0664619930453, square: 395349024
+Sphere; radius: 7877, density: 555.9075821127196, square: 389853609.2854764
+Sphere; radius: 7867, density: 700.7352290347192, square: 388864384.59071404
+Sphere; radius: 7861, density: 74.78691662166159, square: 388271452.95964617
+Sphere; radius: 7842, density: 831.798565893472, square: 386396820.640952
+Sphere; radius: 7839, density: 958.225925736954, square: 386101240.75454634
+Parallelepiped; x: 6351, y: 8589, z: 9175, density: 211.12440034137015, square: 383246478
+Sphere; radius: 7809, density: 765.3170896024985, square: 383151662.2439439
+Parallelepiped; x: 7672, y: 7340, z: 8936, density: 383.388700521096, square: 380919424
+Sphere; radius: 7784, density: 782.1793069922219, square: 380702319.53157264
+Sphere; radius: 7754, density: 737.2575484508063, square: 377773475.53248394
+Parallelepiped; x: 9137, y: 7041, z: 7625, density: 701.9593983144391, square: 375381734
+Parallelepiped; x: 7181, y: 8466, z: 8101, density: 279.37384952127354, square: 375101386
+Parallelepiped; x: 7004, y: 7986, z: 8725, density: 69.87898566863204, square: 373443388
+Sphere; radius: 7705, density: 940.9851578435583, square: 373014019.2109632
+Sphere; radius: 7683, density: 256.8233130887736, square: 370886934.78981185
+Parallelepiped; x: 9943, y: 8211, z: 5633, density: 440.86697412403754, square: 367806910
+Parallelepiped; x: 7464, y: 7871, z: 8115, density: 537.8922245446481, square: 366385338
+Sphere; radius: 7606, density: 391.1251985244588, square: 363490036.0373787
+Sphere; radius: 7549, density: 751.2398790277341, square: 358062400.6575513
+Sphere; radius: 7504, density: 303.45930766708426, square: 353806265.1782474
+Parallelepiped; x: 8169, y: 6137, z: 8856, density: 300.6734472230431, square: 353654178
+Sphere; radius: 7498, density: 200.89520366450796, square: 353240703.1023776
+Sphere; radius: 7497, density: 805.6351854273184, square: 353146486.73869646
+Sphere; radius: 7494, density: 989.1946767125874, square: 352863913.0458766
+Parallelepiped; x: 8712, y: 5016, z: 9498, density: 909.1512906962707, square: 348175872
+Sphere; radius: 7419, density: 991.1747320436205, square: 345836327.35942894
+Sphere; radius: 7406, density: 499.4397084778466, square: 344625400.4711027
+Sphere; radius: 7399, density: 530.5355536762728, square: 343974242.5617932
+Sphere; radius: 7392, density: 440.3073558308338, square: 343323700.4046438
+Sphere; radius: 7388, density: 174.6074250692846, square: 342952238.48928326
+Sphere; radius: 7387, density: 537.3469045576086, square: 342859404.4263697
+Sphere; radius: 7365, density: 676.8794077762386, square: 340820234.3340364
+Sphere; radius: 7343, density: 992.1006835211991, square: 338787146.3650805
+Sphere; radius: 7305, density: 501.0556910099574, square: 335289774.62665695
+Sphere; radius: 7302, density: 778.2403371044885, square: 335014439.163311
+Sphere; radius: 7261, density: 198.55192021239964, square: 331262856.03054434
+Parallelepiped; x: 9133, y: 3993, z: 9798, density: 782.3460698945047, square: 330153234
+Sphere; radius: 7225, density: 627.29326639113, square: 327986200.0255914
+Parallelepiped; x: 9306, y: 6513, z: 6400, density: 771.7608282307684, square: 323703156
+Sphere; radius: 7169, density: 747.2313268382574, square: 322921550.544145
+Parallelepiped; x: 8898, y: 7891, z: 5373, density: 958.1008631964405, square: 320842830
+Sphere; radius: 7127, density: 14.547124619499584, square: 319148925.0237845
+Sphere; radius: 7115, density: 222.68875385126353, square: 318075103.52204627
+Sphere; radius: 7106, density: 730.8812782026581, square: 317270924.91776574
+Sphere; radius: 7088, density: 994.1603077953628, square: 315665621.33726376
+Sphere; radius: 7086, density: 829.6236778335523, square: 315487505.6001758
+Parallelepiped; x: 6447, y: 9461, z: 6006, density: 805.8395793435529, square: 313077030
+Parallelepiped; x: 7351, y: 4808, z: 9947, density: 439.26794175172654, square: 312578362
+Sphere; radius: 7044, density: 504.2253403401652, square: 311758686.44777703
+Sphere; radius: 7033, density: 839.9538487688436, square: 310785754.0525162
+Sphere; radius: 7030, density: 696.1411821280985, square: 310520672.7475916
+Sphere; radius: 7021, density: 6.489693111352057, square: 309726107.416831
+Parallelepiped; x: 9798, y: 5101, z: 7026, density: 125.87714550738394, square: 309319944
+Parallelepiped; x: 9528, y: 9570, z: 3315, density: 118.5820193209356, square: 308985660
+Sphere; radius: 7008, density: 576.8737599708762, square: 308580198.93006355
+Parallelepiped; x: 9018, y: 3511, z: 9774, density: 554.2649327283797, square: 308241288
+Sphere; radius: 6990, density: 803.5848553584303, square: 306997062.4273253
+Parallelepiped; x: 5410, y: 8086, z: 8112, density: 12.420704778725366, square: 306449624
+Sphere; radius: 6980, density: 843.45647400589, square: 306119301.4399123
+Parallelepiped; x: 5464, y: 6719, z: 9549, density: 378.15515913349253, square: 306096166
+Sphere; radius: 6944, density: 750.1308371576425, square: 302969766.8400942
+Parallelepiped; x: 7105, y: 7222, z: 6974, density: 162.62217637768006, square: 302457616
+Parallelepiped; x: 4942, y: 8194, z: 8357, density: 879.5582284184596, square: 300544600
+Sphere; radius: 6911, density: 205.76520847342906, square: 300097000.2698721
+Parallelepiped; x: 8874, y: 8670, z: 4152, density: 523.3620354675891, square: 299560536
+Sphere; radius: 6898, density: 381.09597293285145, square: 298969061.69308317
+Parallelepiped; x: 8440, y: 3945, z: 9343, density: 658.5771685445916, square: 298017710
+Sphere; radius: 6877, density: 784.7463247245116, square: 297151493.2633488
+Sphere; radius: 6866, density: 495.42269064479973, square: 296201645.2909065
+Parallelepiped; x: 9405, y: 9503, z: 3087, density: 582.4448594508005, square: 295489422
+Sphere; radius: 6801, density: 483.27340163699574, square: 290619946.20734704
+Sphere; radius: 6800, density: 838.9077009579747, square: 290534488.60398406
+Sphere; radius: 6798, density: 507.10989905253655, square: 290363611.09637004
+Parallelepiped; x: 5956, y: 9820, z: 5355, density: 383.09525468670824, square: 285936800
+Parallelepiped; x: 9848, y: 7663, z: 3854, density: 304.20136192007266, square: 285905236
+Parallelepiped; x: 2955, y: 9278, z: 9437, density: 221.58997889574295, square: 285718622
+Parallelepiped; x: 8429, y: 3570, z: 9340, density: 627.9855541884234, square: 284324380
+Parallelepiped; x: 5122, y: 8877, z: 6880, density: 197.83907544122968, square: 283562228
+Parallelepiped; x: 9417, y: 8530, z: 3401, density: 778.2977819579881, square: 282729514
+Parallelepiped; x: 8750, y: 9409, z: 3239, density: 383.5546072400854, square: 282291502
+Sphere; radius: 6674, density: 208.2377241611889, square: 279867374.11153793
+Parallelepiped; x: 5848, y: 5758, z: 9083, density: 213.56340570095088, square: 278180164
+Parallelepiped; x: 6361, y: 8155, z: 5955, density: 444.539666864915, square: 276633470
+Sphere; radius: 6608, density: 381.72999815524634, square: 274359458.4730406
+Parallelepiped; x: 8800, y: 4759, z: 7006, density: 888.7418326844213, square: 273747108
+Parallelepiped; x: 5602, y: 7225, z: 7495, density: 98.84617598348733, square: 273225630
+Sphere; radius: 6586, density: 10.248279393686222, square: 272535650.8402962
+Sphere; radius: 6583, density: 964.97297767575, square: 272287421.0383655
+Sphere; radius: 6569, density: 57.57106775317278, square: 271130510.6941251
+Parallelepiped; x: 8893, y: 6637, z: 4917, density: 961.8005721442996, square: 270767702
+Parallelepiped; x: 7306, y: 9376, z: 4006, density: 595.9268938266698, square: 270658296
+Parallelepiped; x: 3259, y: 8799, z: 8816, density: 922.5361159437126, square: 269958538
+Parallelepiped; x: 3711, y: 9831, z: 7223, density: 446.7375647092191, square: 268593414
+Sphere; radius: 6506, density: 636.7464992821937, square: 265954893.8769686
+Sphere; radius: 6498, density: 10.56719169436182, square: 265301241.54309207
+Sphere; radius: 6492, density: 738.9932134786513, square: 264811530.08025047
+Parallelepiped; x: 6736, y: 8947, z: 4549, density: 391.28668491639985, square: 263217918
+Parallelepiped; x: 5589, y: 5921, z: 8445, density: 541.6421548819375, square: 260588838
+Sphere; radius: 6436, density: 127.01348734950923, square: 260262704.97978228
+Parallelepiped; x: 8033, y: 3406, z: 8929, density: 634.8206316974947, square: 258998458
+Parallelepiped; x: 7564, y: 6530, z: 5676, density: 825.9591831524313, square: 258780928
+Parallelepiped; x: 4843, y: 7701, z: 7316, density: 945.8546970373147, square: 258135694
+Parallelepiped; x: 7637, y: 6717, z: 5348, density: 539.9675793289863, square: 256125842
+Parallelepiped; x: 8564, y: 3596, z: 7929, density: 381.5667639802467, square: 254425568
+Parallelepiped; x: 8800, y: 6919, z: 4172, density: 864.2943071211673, square: 252933736
+Parallelepiped; x: 3718, y: 9324, z: 7001, density: 440.03320984501295, square: 251947348
+Parallelepiped; x: 7397, y: 8935, z: 3643, density: 936.3012825163953, square: 251179342
+Sphere; radius: 6319, density: 320.1726114360767, square: 250886087.63439247
+Sphere; radius: 6315, density: 117.77390900982432, square: 250568560.58170885
+Parallelepiped; x: 8919, y: 7695, z: 3391, density: 777.4238956354866, square: 249939558
+Sphere; radius: 6305, density: 310.31344399143626, square: 249775622.59594277
+Sphere; radius: 6302, density: 86.43483613369274, square: 249537986.24443996
+Parallelepiped; x: 7853, y: 2630, z: 9893, density: 505.36544339997124, square: 248723418
+Parallelepiped; x: 9182, y: 6943, z: 3744, density: 563.1564745405308, square: 248245252
+Sphere; radius: 6283, density: 809.339974366756, square: 248035582.3897137
+Parallelepiped; x: 7548, y: 3728, z: 8497, density: 454.79520587530806, square: 247902232
+Parallelepiped; x: 3879, y: 8293, z: 7530, density: 217.01448406893263, square: 247647414
+Parallelepiped; x: 9596, y: 8949, z: 2041, density: 578.5595718735972, square: 247449898
+Sphere; radius: 6262, density: 177.07604223155883, square: 246380308.63646373
+Parallelepiped; x: 3031, y: 8042, z: 8906, density: 397.8721678537295, square: 245982880
+Parallelepiped; x: 7144, y: 3304, z: 9420, density: 591.152254297174, square: 244047872
+Sphere; radius: 6231, density: 299.4460335260795, square: 243946937.78114334
+Sphere; radius: 6231, density: 371.5356664330778, square: 243946937.78114334
+Parallelepiped; x: 8385, y: 3560, z: 7672, density: 941.051558886483, square: 242985280
+Sphere; radius: 6189, density: 947.000839785093, square: 240669376.99750614
+Sphere; radius: 6173, density: 836.249341352438, square: 239426613.20922852
+Parallelepiped; x: 9171, y: 6132, z: 4066, density: 888.9805991568791, square: 236917140
+Parallelepiped; x: 6917, y: 6240, z: 5703, density: 207.48055086627704, square: 236392902
+Sphere; radius: 6123, density: 825.263266511026, square: 235563710.88237447
+Parallelepiped; x: 6774, y: 7847, z: 4399, density: 491.6350185344974, square: 234946714
+Parallelepiped; x: 7226, y: 6071, z: 5529, density: 479.0290356360769, square: 234776318
+Sphere; radius: 6096, density: 71.30558972796631, square: 233490806.36812693
+Sphere; radius: 6059, density: 352.6746220944128, square: 230665038.02400252
+Sphere; radius: 6056, density: 594.4212964294248, square: 230436675.6540131
+Parallelepiped; x: 3638, y: 9975, z: 5674, density: 763.259916161234, square: 227058424
+Parallelepiped; x: 8321, y: 5740, z: 4677, density: 476.0334195573447, square: 227051674
+Parallelepiped; x: 7305, y: 7528, z: 3914, density: 329.5312175581645, square: 226096804
+Parallelepiped; x: 9717, y: 6426, z: 3120, density: 950.214451327878, square: 225615204
+Sphere; radius: 5991, density: 587.602351032576, square: 225516595.98329958
+Parallelepiped; x: 7490, y: 2372, z: 9614, density: 473.27076170418945, square: 225159096
+Parallelepiped; x: 2046, y: 7678, z: 9949, density: 871.2732010144477, square: 224906528
+Parallelepiped; x: 9207, y: 5821, z: 3903, density: 689.4613115377764, square: 224496462
+Parallelepiped; x: 5194, y: 6103, z: 7128, density: 983.7248666043071, square: 224447996
+Parallelepiped; x: 3789, y: 9233, z: 5924, density: 800.6667803757172, square: 224252330
+Sphere; radius: 5972, density: 755.4507391254543, square: 224088446.81253362
+Sphere; radius: 5950, density: 998.5634534416089, square: 222440467.83742532
+Parallelepiped; x: 4894, y: 7756, z: 5777, density: 312.92148597455315, square: 222073828
+Sphere; radius: 5926, density: 696.840515308422, square: 220649609.22843176
+Parallelepiped; x: 8925, y: 1307, z: 9635, density: 248.09121650639386, square: 220500590
+Parallelepiped; x: 2281, y: 7374, z: 9676, density: 944.9454488932394, square: 220483748
+Sphere; radius: 5893, density: 593.6252459592093, square: 218198997.3126284
+Parallelepiped; x: 8235, y: 8089, z: 2559, density: 395.99963790749393, square: 216772062
+Parallelepiped; x: 8344, y: 9168, z: 1806, density: 22.830976555387128, square: 216248928
+Parallelepiped; x: 4735, y: 7544, z: 5892, density: 521.5875505706655, square: 216137416
+Parallelepiped; x: 2472, y: 7216, z: 9289, density: 240.8568488339483, square: 215659568
+Parallelepiped; x: 8900, y: 1471, z: 9134, density: 14.009278380628487, square: 215641228
+Sphere; radius: 5854, density: 682.4951653694939, square: 215320462.7782943
+Parallelepiped; x: 6909, y: 2612, z: 9319, density: 821.6402896407636, square: 213545014
+Parallelepiped; x: 3381, y: 6721, z: 8176, density: 647.4237778785629, square: 210635306
+Sphere; radius: 5787, density: 850.742398961139, square: 210419911.24751553
+Parallelepiped; x: 5461, y: 3986, z: 8826, density: 675.9568525165972, square: 210293536
+Parallelepiped; x: 9353, y: 7344, z: 2146, density: 180.61606986714173, square: 209040388
+Parallelepiped; x: 5109, y: 5104, z: 7608, density: 692.715362222677, square: 207553680
+Sphere; radius: 5747, density: 315.9704661111362, square: 207521100.87419516
+Parallelepiped; x: 4522, y: 4579, z: 9068, density: 602.9706430917632, square: 206468212
+Sphere; radius: 5725, density: 903.0967217475819, square: 205935325.43362793
+Parallelepiped; x: 6973, y: 4488, z: 6228, density: 126.67120558400025, square: 205347864
+Sphere; radius: 5697, density: 384.6334710853705, square: 203925862.24142697
+Parallelepiped; x: 4071, y: 9233, z: 4834, density: 530.6176805301179, square: 203798158
+Parallelepiped; x: 1989, y: 7881, z: 8549, density: 652.4121284456704, square: 200107878
+Parallelepiped; x: 3924, y: 9661, z: 4550, density: 254.22891162701845, square: 199443028
+Sphere; radius: 5626, density: 509.9625140382147, square: 198874602.22787017
+Sphere; radius: 5602, density: 14.958201524278403, square: 197181459.71677387
+Sphere; radius: 5600, density: 608.5593286026331, square: 197040691.2331518
+Parallelepiped; x: 4701, y: 5659, z: 6922, density: 348.1683947307396, square: 196629758
+Sphere; radius: 5583, density: 251.01177565549705, square: 195846188.5912186
+Parallelepiped; x: 6491, y: 3238, z: 7876, density: 491.7476537347363, square: 195286924
+Parallelepiped; x: 2146, y: 9711, z: 6471, density: 574.919866387335, square: 195132906
+Parallelepiped; x: 6632, y: 6782, z: 3892, density: 437.1036369920769, square: 194371024
+Parallelepiped; x: 102, y: 9800, z: 9712, density: 764.6490210873211, square: 194335648
+Sphere; radius: 5556, density: 883.6364394723334, square: 193956501.76052842
+Parallelepiped; x: 3361, y: 6043, z: 8100, density: 972.8675153210154, square: 192965846
+Parallelepiped; x: 2821, y: 5613, z: 9391, density: 504.7738622807817, square: 190075934
+Parallelepiped; x: 471, y: 9138, z: 9423, density: 440.5697958631286, square: 189699210
+Sphere; radius: 5483, density: 981.7313349071468, square: 188893215.7302937
+Sphere; radius: 5452, density: 668.6576498491041, square: 186763310.15893942
+Parallelepiped; x: 6114, y: 8321, z: 2936, density: 284.606572608867, square: 186511508
+Parallelepiped; x: 4742, y: 7577, z: 4640, density: 435.27980401558887, square: 186180588
+Parallelepiped; x: 3745, y: 5986, z: 7161, density: 128.3350941620185, square: 184202522
+Parallelepiped; x: 3891, y: 5256, z: 7794, density: 587.7628851689715, square: 183485628
+Sphere; radius: 5377, density: 52.84807235871314, square: 181660264.13208082
+Sphere; radius: 5363, density: 636.9408554574145, square: 180715524.38929328
+Parallelepiped; x: 6493, y: 4467, z: 5586, density: 416.4521599834383, square: 180453582
+Parallelepiped; x: 6033, y: 3455, z: 7310, density: 703.2044396259174, square: 180402590
+Sphere; radius: 5343, density: 436.36175302292236, square: 179370168.75132
+Parallelepiped; x: 8945, y: 6847, z: 1759, density: 808.1623791125378, square: 178049086
+Parallelepiped; x: 8613, y: 5406, z: 3007, density: 919.266607546005, square: 177434022
+Parallelepiped; x: 1827, y: 6974, z: 8610, density: 403.95197125449033, square: 177036216
+Sphere; radius: 5302, density: 647.2974143731282, square: 176627903.939928
+Parallelepiped; x: 7412, y: 2154, z: 7556, density: 288.3087913557756, square: 176492288
+Parallelepiped; x: 7821, y: 5526, z: 3363, density: 940.5553716738184, square: 176209614
+Parallelepiped; x: 5351, y: 3737, z: 7459, density: 807.1495493764023, square: 175568158
+Sphere; radius: 5273, density: 181.34771829271713, square: 174701008.08584872
+Sphere; radius: 5270, density: 135.54319526721105, square: 174502277.21776792
+Sphere; radius: 5266, density: 874.1775889849164, square: 174237478.65618217
+Tetrahedron; x: 9987, density: 627.2319809547813, square: 172755040.2635063
+Sphere; radius: 5239, density: 490.6185991318509, square: 172455347.39158028
+Tetrahedron; x: 9967, density: 463.8928558084362, square: 172063813.42722172
+Parallelepiped; x: 6715, y: 7106, z: 2746, density: 946.6589763535654, square: 171338512
+Tetrahedron; x: 9921, density: 639.9707602578949, square: 170479250.21001893
+Sphere; radius: 5206, density: 783.6285565023876, square: 170289627.66397506
+Sphere; radius: 5205, density: 302.9804850426178, square: 170224213.42174205
+Parallelepiped; x: 1608, y: 8651, z: 6899, density: 526.4950605834688, square: 169375298
+Tetrahedron; x: 9882, density: 181.6498204583803, square: 169141557.92646977
+Parallelepiped; x: 8652, y: 8640, z: 565, density: 808.3763824048028, square: 169046520
+Parallelepiped; x: 6997, y: 3561, z: 5624, density: 713.9284422049824, square: 168589018
+Tetrahedron; x: 9862, density: 258.5312716824093, square: 168457605.70357695
+Tetrahedron; x: 9847, density: 410.2372675102711, square: 167945550.86308134
+Sphere; radius: 5170, density: 101.62965523655242, square: 167942631.75707245
+Tetrahedron; x: 9838, density: 771.2161903946712, square: 167638692.08175838
+Sphere; radius: 5156, density: 440.52758245135414, square: 167034309.35632533
+Parallelepiped; x: 1656, y: 7331, z: 7836, density: 260.988080529305, square: 165124536
+Tetrahedron; x: 9757, density: 410.30283980543635, square: 164889589.70023912
+Tetrahedron; x: 9757, density: 0.31935956113848807, square: 164889589.70023912
+Parallelepiped; x: 7059, y: 4051, z: 4796, density: 579.4816256300836, square: 163759138
+Tetrahedron; x: 9716, density: 255.94090770421107, square: 163506732.45983177
+Sphere; radius: 5089, density: 140.52055710623767, square: 162721436.71369767
+Tetrahedron; x: 9665, density: 677.6436718156921, square: 161794719.74805567
+Parallelepiped; x: 612, y: 7521, z: 9374, density: 210.46306953727733, square: 161683188
+Parallelepiped; x: 8717, y: 6415, z: 1638, density: 881.2235778958799, square: 161411542
+Tetrahedron; x: 9641, density: 927.2833473999625, square: 160992184.39867347
+Parallelepiped; x: 9234, y: 4577, z: 2766, density: 532.6752932900062, square: 160930488
+Parallelepiped; x: 3015, y: 7856, z: 5208, density: 505.3145366644654, square: 160604016
+Parallelepiped; x: 5091, y: 6151, z: 4341, density: 465.60660434880896, square: 160232526
+Tetrahedron; x: 9586, density: 615.1502556616871, square: 159160566.65043148
+Parallelepiped; x: 7181, y: 2964, z: 5745, density: 598.6010902398659, square: 159135018
+Parallelepiped; x: 9792, y: 6771, z: 786, density: 319.65877725158856, square: 158640300
+Sphere; radius: 5019, density: 681.0088333236746, square: 158275706.11774966
+Parallelepiped; x: 3592, y: 5442, z: 6559, density: 512.2878121357661, square: 157603340
+Parallelepiped; x: 9847, y: 471, z: 7185, density: 834.9731196398345, square: 157545534
+Tetrahedron; x: 9533, density: 80.15150224890932, square: 157405467.4427663
+Tetrahedron; x: 9524, density: 36.60109525037769, square: 157108398.21260774
+Parallelepiped; x: 4816, y: 4156, z: 6459, density: 434.3563227157702, square: 155930888
+Sphere; radius: 4981, density: 636.9034745121187, square: 155888095.70102143
+Sphere; radius: 4977, density: 180.88596540006364, square: 155637823.86386585
+Parallelepiped; x: 4586, y: 5031, z: 5691, density: 334.5745778941653, square: 155605026
+Parallelepiped; x: 978, y: 8656, z: 7193, density: 748.3398298467877, square: 155525860
+Parallelepiped; x: 1442, y: 5545, z: 9983, density: 876.7855433049086, square: 155494222
+Sphere; radius: 4971, density: 424.77451927709274, square: 155262793.0992509
+Tetrahedron; x: 9438, density: 833.0356013192579, square: 154283887.53507933
+Parallelepiped; x: 4493, y: 3629, z: 7472, density: 426.3071324187232, square: 153985362
+Parallelepiped; x: 4043, y: 4644, z: 6697, density: 732.422156817608, square: 153905062
+Parallelepiped; x: 7550, y: 2726, z: 5465, density: 608.8010157953006, square: 153479280
+Parallelepiped; x: 531, y: 6788, z: 9940, density: 743.1672288646768, square: 152710576
+Parallelepiped; x: 5181, y: 2696, z: 7886, density: 536.789481771168, square: 152171996
+Tetrahedron; x: 9368, density: 247.48175438525953, square: 152003781.2109795
+Sphere; radius: 4916, density: 708.5716113554793, square: 151846091.17698625
+Tetrahedron; x: 9339, density: 466.9698505672415, square: 151064138.45172095
+Tetrahedron; x: 9320, density: 621.5144952106797, square: 150450090.06737083
+Tetrahedron; x: 9305, density: 627.9624539945453, square: 149966198.37300628
+Tetrahedron; x: 9291, density: 219.70397643401628, square: 149515269.33756056
+Tetrahedron; x: 9256, density: 677.028187326251, square: 148390917.21608126
+Parallelepiped; x: 7967, y: 2422, z: 5284, density: 678.4096451392172, square: 148383100
+Tetrahedron; x: 9249, density: 205.39248722256508, square: 148166556.01472282
+Parallelepiped; x: 7787, y: 2102, z: 5832, density: 478.7424844332262, square: 148081844
+Tetrahedron; x: 9239, density: 32.12220120623543, square: 147846334.4614195
+Tetrahedron; x: 9151, density: 155.94616102639225, square: 145043321.99851465
+Sphere; radius: 4798, density: 684.1125524999169, square: 144643977.45226103
+Sphere; radius: 4794, density: 636.7303027362335, square: 144402904.19839516
+Sphere; radius: 4792, density: 33.78527439560597, square: 144282442.96968594
+Tetrahedron; x: 9125, density: 809.8451427298212, square: 144220293.02397728
+Parallelepiped; x: 5631, y: 7331, z: 2375, density: 219.38700961926617, square: 144131222
+Parallelepiped; x: 4520, y: 9113, z: 2245, density: 317.0157396888178, square: 143593690
+Parallelepiped; x: 1155, y: 9966, z: 5396, density: 366.1306583810773, square: 143039292
+Parallelepiped; x: 3959, y: 4903, z: 5755, density: 136.24672734401656, square: 140823574
+Parallelepiped; x: 4570, y: 6624, z: 3585, density: 891.7402925020668, square: 140804340
+Sphere; radius: 4728, density: 333.54721022519504, square: 140454223.82572755
+Tetrahedron; x: 8992, density: 236.9942117818894, square: 140046810.9480408
+Parallelepiped; x: 6776, y: 7762, z: 1195, density: 49.690200571456344, square: 139936444
+Tetrahedron; x: 8988, density: 543.9795871759413, square: 139922241.85396045
+Tetrahedron; x: 8981, density: 519.6213386731713, square: 139704379.30723202
+Tetrahedron; x: 8975, density: 256.7459064127545, square: 139517775.08142778
+Parallelepiped; x: 3662, y: 9726, z: 2548, density: 422.26184060579305, square: 139458472
+Parallelepiped; x: 5041, y: 9113, z: 1673, density: 765.9203628524995, square: 139236550
+Sphere; radius: 4705, density: 506.23625001241714, square: 139091030.22466716
+Parallelepiped; x: 6146, y: 2942, z: 5656, density: 553.5646587245226, square: 138966520
+Parallelepiped; x: 5898, y: 9732, z: 758, density: 841.350260307132, square: 138493752
+Parallelepiped; x: 5269, y: 9275, z: 1399, density: 702.9078318493557, square: 138434062
+Parallelepiped; x: 1844, y: 5509, z: 8020, density: 347.46653445324085, square: 138259312
+Tetrahedron; x: 8919, density: 341.01314762007996, square: 137782149.32099208
+Parallelepiped; x: 8409, y: 7216, z: 522, density: 943.0766466389639, square: 137671188
+Tetrahedron; x: 8890, density: 376.19818835507647, square: 136887612.62886426
+Parallelepiped; x: 2858, y: 4217, z: 7951, density: 626.5939845892726, square: 136611022
+Sphere; radius: 4655, density: 111.65178368175965, square: 136150499.50090712
+Parallelepiped; x: 7841, y: 3027, z: 4055, density: 621.5895051365588, square: 135608894
+Parallelepiped; x: 8486, y: 147, z: 7691, density: 750.333360414553, square: 135287690
+Tetrahedron; x: 8831, density: 968.659981921744, square: 135076685.9595695
+Parallelepiped; x: 1849, y: 4320, z: 9627, density: 383.2199046983349, square: 134753286
+Parallelepiped; x: 9485, y: 1944, z: 4279, density: 442.5928267447039, square: 134687062
+Tetrahedron; x: 8814, density: 228.37246343785057, square: 134557131.33907712
+Tetrahedron; x: 8812, density: 566.9094994510014, square: 134496073.0840087
+Sphere; radius: 4620, density: 338.67728499731174, square: 134110820.47056396
+Parallelepiped; x: 2130, y: 7190, z: 5551, density: 5.064574333491834, square: 134100040
+Tetrahedron; x: 8798, density: 820.3568230484715, square: 134069053.27791065
+Tetrahedron; x: 8792, density: 992.665511208435, square: 133886252.63567984
+Tetrahedron; x: 8781, density: 643.2062575386294, square: 133551442.01842435
+Tetrahedron; x: 8769, density: 834.3509140699766, square: 133186672.11835034
+Tetrahedron; x: 8764, density: 178.4489175812345, square: 133034831.88430482
+Parallelepiped; x: 3065, y: 6977, z: 4475, density: 472.17060038342083, square: 132644910
+Sphere; radius: 4591, density: 409.35085455549427, square: 132432462.29449545
+Tetrahedron; x: 8728, density: 80.73487878403984, square: 131944138.70616901
+Parallelepiped; x: 2135, y: 9203, z: 4084, density: 719.1824173911028, square: 131905594
+Tetrahedron; x: 8720, density: 994.2541879070603, square: 131702372.1262453
+Tetrahedron; x: 8680, density: 766.795626096385, square: 130496864.76417737
+Sphere; radius: 4542, density: 334.5807497577036, square: 129620630.05538237
+Parallelepiped; x: 5661, y: 5210, z: 3248, density: 826.1088037738836, square: 129605636
+Parallelepiped; x: 4936, y: 9159, z: 1382, density: 702.7736058436698, square: 129376228
+Tetrahedron; x: 8637, density: 985.5288232892651, square: 129207126.03928655
+Parallelepiped; x: 1213, y: 7256, z: 6566, density: 475.10435940614747, square: 128817964
+Sphere; radius: 4526, density: 552.0895970272175, square: 128709015.2655343
+Parallelepiped; x: 4370, y: 4496, z: 5029, density: 442.54186544242515, square: 128469268
+Sphere; radius: 4516, density: 13.166283178557503, square: 128140889.65005912
+Parallelepiped; x: 2885, y: 4515, z: 6884, density: 207.42724889022935, square: 127934750
+Parallelepiped; x: 6669, y: 1384, z: 6796, density: 9.242831323518551, square: 127916168
+Parallelepiped; x: 8087, y: 3638, z: 2927, density: 133.99312396105668, square: 127479162
+Parallelepiped; x: 8000, y: 6449, z: 821, density: 105.7699538021647, square: 126909258
+Tetrahedron; x: 8548, density: 217.17939172041744, square: 126558014.95088822
+Parallelepiped; x: 903, y: 9385, z: 5289, density: 4.097985650688751, square: 125775774
+Sphere; radius: 4444, density: 681.305024308953, square: 124087481.14469142
+Tetrahedron; x: 8454, density: 241.73262304758424, square: 123789872.13484134
+Parallelepiped; x: 6355, y: 8230, z: 634, density: 640.1011681820113, square: 123097080
+Sphere; radius: 4419, density: 971.5195393828241, square: 122695284.3602531
+Parallelepiped; x: 868, y: 4899, z: 9898, density: 435.9573120580803, square: 122668196
+Parallelepiped; x: 3707, y: 5118, z: 4798, density: 41.75681888307092, square: 122629552
+Tetrahedron; x: 8411, density: 388.70946801504635, square: 122533797.54944642
+Tetrahedron; x: 8405, density: 700.913595674272, square: 122359040.55116595
+Parallelepiped; x: 5875, y: 2556, z: 5463, density: 83.46150823353715, square: 122150106
+Tetrahedron; x: 8383, density: 800.0383912561631, square: 121719331.83410169
+Tetrahedron; x: 8374, density: 408.1885685964238, square: 121458116.0556598
+Tetrahedron; x: 8308, density: 93.51910258216722, square: 119551107.33191678
+Parallelepiped; x: 9061, y: 2951, z: 2728, density: 58.951074436819574, square: 119015494
+Parallelepiped; x: 9050, y: 1158, z: 4800, density: 195.93540635514572, square: 118956600
+Tetrahedron; x: 8280, density: 82.09772264774318, square: 118746632.0856301
+Sphere; radius: 4346, density: 778.5770359260588, square: 118675019.65738079
+Tetrahedron; x: 8268, density: 675.2829969627822, square: 118402688.36446631
+Parallelepiped; x: 6371, y: 696, z: 7702, density: 515.7812269861399, square: 117728500
+Tetrahedron; x: 8243, density: 75.9664045478795, square: 117687741.09237207
+Tetrahedron; x: 8234, density: 214.14574032214483, square: 117430890.08196525
+Parallelepiped; x: 4424, y: 5743, z: 3222, density: 152.24810856290205, square: 116330212
+Tetrahedron; x: 8172, density: 365.1454926292034, square: 115669096.49792881
+Parallelepiped; x: 7737, y: 5283, z: 1293, density: 687.1349756086217, square: 115418862
+Parallelepiped; x: 4552, y: 1519, z: 8337, density: 799.4571405022613, square: 115056830
+Parallelepiped; x: 2952, y: 9284, z: 2450, density: 804.3600400979805, square: 114769136
+Sphere; radius: 4272, density: 807.664806766383, square: 114668031.32506253
+Tetrahedron; x: 8135, density: 699.9835974529298, square: 114624048.05472486
+Sphere; radius: 4260, density: 207.22029405021613, square: 114024733.68057226
+Parallelepiped; x: 353, y: 7821, z: 6609, density: 831.0382507492396, square: 113565558
+Tetrahedron; x: 8081, density: 140.16724118637615, square: 113107353.51636587
+Parallelepiped; x: 5162, y: 692, z: 9034, density: 862.5185512724968, square: 112914280
+Sphere; radius: 4227, density: 656.5961267911645, square: 112264995.68840516
+Parallelepiped; x: 6883, y: 125, z: 7856, density: 100.42359330751837, square: 111830446
+Parallelepiped; x: 7789, y: 632, z: 6030, density: 293.57462500520813, square: 111402556
+Tetrahedron; x: 7990, density: 421.16067842699, square: 110574296.76027788
+Tetrahedron; x: 7986, density: 312.07561307201917, square: 110463611.78547099
+Tetrahedron; x: 7950, density: 994.3083968239525, square: 109469941.16537195
+Tetrahedron; x: 7933, density: 762.452303121367, square: 109002268.39476947
+Tetrahedron; x: 7920, density: 885.9601243107604, square: 108645311.77588841
+Parallelepiped; x: 3905, y: 3697, z: 5241, density: 828.3427403915038, square: 108557734
+Parallelepiped; x: 4549, y: 5523, z: 2874, density: 608.8134956324442, square: 108142110
+Sphere; radius: 4141, density: 617.6396950949925, square: 107743313.94846399
+Parallelepiped; x: 6489, y: 20, z: 8243, density: 573.4137804353729, square: 107566934
+Tetrahedron; x: 7863, density: 352.1676114533815, square: 107087105.17582442
+Parallelepiped; x: 585, y: 7688, z: 5916, density: 452.11514075887817, square: 106881096
+Tetrahedron; x: 7851, density: 470.93460338078387, square: 106760495.81914277
+Parallelepiped; x: 5345, y: 3873, z: 3528, density: 922.1419844144708, square: 106444578
+Parallelepiped; x: 2996, y: 5794, z: 4073, density: 649.4800201467776, square: 106320988
+Tetrahedron; x: 7829, density: 706.7176084538459, square: 106163007.57256381
+Parallelepiped; x: 2437, y: 6046, z: 4514, density: 210.47909445459788, square: 106052728
+Tetrahedron; x: 7811, density: 7.523677964360265, square: 105675400.62921703
+Parallelepiped; x: 6484, y: 2683, z: 3859, density: 305.51909160971957, square: 105544050
+Tetrahedron; x: 7800, density: 932.9598761034264, square: 105377971.13249049
+Sphere; radius: 4089, density: 389.99221522884307, square: 105054361.9644034
+Sphere; radius: 4087, density: 91.00674036531674, square: 104951619.31826042
+Parallelepiped; x: 4284, y: 1457, z: 8035, density: 49.12467052089797, square: 104741446
+Parallelepiped; x: 2044, y: 4050, z: 7218, density: 610.930278366355, square: 104529384
+Sphere; radius: 4074, density: 440.8447915814652, square: 104285017.33946581
+Tetrahedron; x: 7757, density: 824.2084855183484, square: 104219314.01271649
+Parallelepiped; x: 2276, y: 4365, z: 6300, density: 449.6768166655311, square: 103546080
+Tetrahedron; x: 7719, density: 300.38477651305607, square: 103200715.71739492
+Tetrahedron; x: 7706, density: 668.4856915024496, square: 102853396.22920716
+Sphere; radius: 4039, density: 731.9908544840782, square: 102500875.45556563
+Parallelepiped; x: 9217, y: 4887, z: 425, density: 909.9888616882316, square: 102075358
+Tetrahedron; x: 7670, density: 304.3672785386875, square: 101894643.75338872
+Tetrahedron; x: 7656, density: 37.24058565282829, square: 101523008.0039135
+Tetrahedron; x: 7644, density: 694.1310209311999, square: 101205003.47564386
+Parallelepiped; x: 3207, y: 1395, z: 9967, density: 887.6019679847061, square: 100683798
+Parallelepiped; x: 6021, y: 2174, z: 4537, density: 357.9763842383524, square: 100540738
+Tetrahedron; x: 7596, density: 679.1502756656092, square: 99937973.66889109
+Parallelepiped; x: 1609, y: 3766, z: 8072, density: 217.60222428580755, square: 98892988
+Parallelepiped; x: 3470, y: 7249, z: 2256, density: 689.8879237674279, square: 98672188
+Sphere; radius: 3959, density: 505.8718593583842, square: 98480642.16861984
+Tetrahedron; x: 7523, density: 53.834305507656445, square: 98026331.70923781
+Sphere; radius: 3942, density: 798.8353699842681, square: 97636703.5677154
+Sphere; radius: 3935, density: 359.36626213582366, square: 97290255.01306282
+Parallelepiped; x: 5805, y: 2331, z: 4297, density: 570.8453435801806, square: 96983694
+Tetrahedron; x: 7482, density: 699.1569191649985, square: 96960765.3921674
+Parallelepiped; x: 5295, y: 3642, z: 3182, density: 687.72216515702, square: 95443848
+Tetrahedron; x: 7422, density: 974.3313618771869, square: 95411896.278007
+Parallelepiped; x: 3294, y: 4193, z: 4502, density: 686.2430550603189, square: 95036432
+Parallelepiped; x: 3142, y: 1954, z: 8098, density: 983.9524481669602, square: 94813752
+Parallelepiped; x: 5870, y: 7680, z: 168, density: 712.3219928390332, square: 94716000
+Tetrahedron; x: 7385, density: 982.3419835919883, square: 94462976.65462312
+Tetrahedron; x: 7373, density: 696.0783417188039, square: 94156237.3848059
+Parallelepiped; x: 5629, y: 1310, z: 5687, density: 799.9677081816332, square: 93672166
+Parallelepiped; x: 4130, y: 4047, z: 3653, density: 685.3692072453972, square: 93169382
+Parallelepiped; x: 4197, y: 6759, z: 1660, density: 474.99789933056604, square: 93108966
+Tetrahedron; x: 7329, density: 493.8812630864623, square: 93035794.50199929
+Parallelepiped; x: 8004, y: 1457, z: 3642, density: 327.6942501472994, square: 92237580
+Sphere; radius: 3826, density: 864.6837336628416, square: 91975000.68563956
+Parallelepiped; x: 9570, y: 3661, z: 808, density: 511.6988944183771, square: 91452836
+Parallelepiped; x: 1323, y: 4764, z: 6445, density: 629.4871966147214, square: 91066974
+Parallelepiped; x: 5741, y: 6219, z: 781, density: 306.33984057669073, square: 90088078
+Tetrahedron; x: 7197, density: 868.4536056432908, square: 89714704.85794088
+Tetrahedron; x: 7181, density: 737.4482962864266, square: 89316250.03376128
+Sphere; radius: 3758, density: 194.16301401526616, square: 88734686.62450336
+Parallelepiped; x: 5471, y: 1464, z: 5219, density: 696.7355007566146, square: 88406618
+Sphere; radius: 3741, density: 651.8949491474233, square: 87933687.31198819
+Tetrahedron; x: 7120, density: 480.1045191191422, square: 87805276.4592197
+Parallelepiped; x: 7681, y: 4730, z: 601, density: 800.2246942206674, square: 87580282
+Tetrahedron; x: 7101, density: 349.7850956665618, square: 87337278.06306538
+Tetrahedron; x: 7094, density: 930.9163255849219, square: 87165172.8345713
+Parallelepiped; x: 5487, y: 6656, z: 574, density: 438.6506245484168, square: 86983108
+Parallelepiped; x: 1398, y: 4659, z: 6092, density: 482.5340159190412, square: 86825052
+Parallelepiped; x: 2918, y: 3631, z: 5008, density: 815.791781900645, square: 86785300
+Parallelepiped; x: 7903, y: 2660, z: 2108, density: 110.85804909634066, square: 86577568
+Sphere; radius: 3712, density: 787.7570954340389, square: 86575658.48925032
+Sphere; radius: 3711, density: 677.3158544869798, square: 86529018.40471512
+Tetrahedron; x: 7068, density: 339.68684710931694, square: 86527410.94261475
+Parallelepiped; x: 7320, y: 5636, z: 146, density: 479.84375534077026, square: 86294192
+Tetrahedron; x: 7044, density: 548.3143603686776, square: 85940786.11870086
+Parallelepiped; x: 418, y: 4798, z: 7667, density: 541.2989619629578, square: 83993272
+Parallelepiped; x: 537, y: 6073, z: 5825, density: 657.5542962564288, square: 83528902
+Sphere; radius: 3643, density: 786.0574458447795, square: 83386973.3617832
+Tetrahedron; x: 6922, density: 247.67146470109859, square: 82989627.88612302
+Parallelepiped; x: 2450, y: 2190, z: 7755, density: 437.8986859516285, square: 82697400
+Parallelepiped; x: 4371, y: 3226, z: 3572, density: 991.1072943772322, square: 82474660
+Parallelepiped; x: 934, y: 3518, z: 8515, density: 231.0253333861393, square: 82389184
+Sphere; radius: 3618, density: 308.1698842730405, square: 82246418.14889744
+Parallelepiped; x: 3422, y: 1235, z: 7836, density: 97.4546621849396, square: 81436844
+Tetrahedron; x: 6840, density: 636.4475424194619, square: 81035036.26259446
+Tetrahedron; x: 6829, density: 203.7552599152046, square: 80774606.83521922
+Tetrahedron; x: 6820, density: 979.8141760790276, square: 80561839.98196664
+Tetrahedron; x: 6785, density: 622.5622159672638, square: 79737080.68867253
+Sphere; radius: 3560, density: 996.7162561078301, square: 79630577.3090712
+Sphere; radius: 3556, density: 476.8931499305624, square: 79451732.72248764
+Parallelepiped; x: 2785, y: 2384, z: 6385, density: 484.7092044724737, square: 79287010
+Tetrahedron; x: 6741, density: 417.66434796427865, square: 78706261.04285276
+Parallelepiped; x: 4013, y: 4042, z: 2869, density: 425.0344854549324, square: 78660682
+Sphere; radius: 3531, density: 105.45855487925438, square: 78338509.3656881
+Parallelepiped; x: 3870, y: 5713, z: 1761, density: 50.48466692267528, square: 77969946
+Parallelepiped; x: 3938, y: 8469, z: 451, density: 803.0902442633118, square: 77892958
+Parallelepiped; x: 1631, y: 8789, z: 2360, density: 367.2211157354367, square: 77852118
+Tetrahedron; x: 6702, density: 747.5306070487939, square: 77798186.64161298
+Parallelepiped; x: 5697, y: 6264, z: 244, density: 43.432956273114385, square: 77208984
+Tetrahedron; x: 6671, density: 448.8992212274521, square: 77080142.4626748
+Parallelepiped; x: 2917, y: 7453, z: 1619, density: 190.45741128409298, square: 77058862
+Parallelepiped; x: 5844, y: 2187, z: 3205, density: 522.9148742662612, square: 77040366
+Parallelepiped; x: 1254, y: 4254, z: 5987, density: 501.68187442104573, square: 76621824
+Tetrahedron; x: 6641, density: 938.2382037256134, square: 76388430.65216409
+Parallelepiped; x: 4436, y: 1522, z: 5270, density: 143.34694518516534, square: 76300504
+Tetrahedron; x: 6623, density: 214.7525641717448, square: 75974900.05775541
+Tetrahedron; x: 6597, density: 147.78165201329253, square: 75379559.55417784
+Tetrahedron; x: 6594, density: 731.9393422249507, square: 75311017.1075699
+Sphere; radius: 3462, density: 572.8828297464524, square: 75306765.64082372
+Tetrahedron; x: 6579, density: 464.4830936283808, square: 74968772.52824834
+Parallelepiped; x: 8464, y: 234, z: 4067, density: 140.89230293577327, square: 74710684
+Parallelepiped; x: 4016, y: 8882, z: 106, density: 26.86544459077855, square: 74074600
+Sphere; radius: 3432, density: 438.2894069930947, square: 74007277.25559285
+Tetrahedron; x: 6530, density: 279.04940742922156, square: 73856205.28046374
+Tetrahedron; x: 6519, density: 72.63932419649699, square: 73607588.4395961
+Sphere; radius: 3421, density: 741.9816481300987, square: 73533631.89758173
+Tetrahedron; x: 6493, density: 281.28838010407986, square: 73021614.86678587
+Tetrahedron; x: 6481, density: 649.8236058531243, square: 72751955.34065709
+Tetrahedron; x: 6472, density: 750.5994268405716, square: 72550038.05366312
+Parallelepiped; x: 7218, y: 1800, z: 2570, density: 533.5689589722743, square: 72337320
+Tetrahedron; x: 6451, density: 404.9185206260963, square: 72079988.90935266
+Tetrahedron; x: 6445, density: 728.7397541984385, square: 71945969.74606621
+Tetrahedron; x: 6443, density: 311.66607317241204, square: 71901324.40445031
+Parallelepiped; x: 7322, y: 1264, z: 3101, density: 842.9031810730742, square: 71760388
+Parallelepiped; x: 3027, y: 1236, z: 7471, density: 835.5220564297038, square: 71180490
+Parallelepiped; x: 70, y: 4042, z: 8564, density: 632.7391797660625, square: 70996216
+Tetrahedron; x: 6392, density: 228.79342642126633, square: 70767549.92657784
+Sphere; radius: 3355, density: 9.016464076560315, square: 70723690.89724611
+Parallelepiped; x: 3928, y: 4970, z: 1704, density: 442.6394426131179, square: 69368704
+Parallelepiped; x: 1520, y: 4761, z: 4335, density: 495.55171974646294, square: 68929710
+Sphere; radius: 3311, density: 603.6946321410694, square: 68880807.5139091
+Parallelepiped; x: 1680, y: 8558, z: 1951, density: 822.566083733314, square: 68703556
+Tetrahedron; x: 6293, density: 47.929172983813714, square: 68592414.54167072
+Sphere; radius: 3302, density: 912.2372811154955, square: 68506851.1739817
+Tetrahedron; x: 6263, density: 603.867222860365, square: 67939985.64347568
+Tetrahedron; x: 6256, density: 8.203522355896165, square: 67788200.835056
+Parallelepiped; x: 5745, y: 147, z: 5608, density: 30.726989585723064, square: 67773702
+Tetrahedron; x: 6245, density: 94.88580735943941, square: 67550024.7964564
+Tetrahedron; x: 6240, density: 185.28178464153976, square: 67441901.52479391
+Tetrahedron; x: 6231, density: 627.5574238563316, square: 67247497.87420319
+Sphere; radius: 3263, density: 456.943313273247, square: 66898135.82385796
+Tetrahedron; x: 6213, density: 111.32610177133174, square: 66859532.34971422
+Sphere; radius: 3262, density: 92.98672313471768, square: 66857138.03972861
+Parallelepiped; x: 9484, y: 1491, z: 1750, density: 390.122688147166, square: 66693788
+Parallelepiped; x: 1664, y: 2265, z: 7522, density: 152.96676312762025, square: 66645796
+Tetrahedron; x: 6191, density: 266.12850232887484, square: 66386876.468938366
+Tetrahedron; x: 6182, density: 514.5403411051983, square: 66194000.487159915
+Tetrahedron; x: 6164, density: 54.11479305883704, square: 65809090.3002955
+Sphere; radius: 3224, density: 550.5133012178308, square: 65308533.923438676
+Tetrahedron; x: 6137, density: 126.00178905060233, square: 65233829.46173007
+Parallelepiped; x: 1195, y: 3607, z: 5882, density: 530.4446903070756, square: 65111458
+Tetrahedron; x: 6123, density: 327.65872106931727, square: 64936540.26111895
+Parallelepiped; x: 6746, y: 1745, z: 2430, density: 663.961458504808, square: 64809800
+Tetrahedron; x: 6115, density: 860.8915910491793, square: 64766965.55885473
+Tetrahedron; x: 6104, density: 749.6423321027237, square: 64534162.341860205
+Tetrahedron; x: 6099, density: 675.0529088555787, square: 64428481.26183639
+Parallelepiped; x: 4597, y: 5810, z: 521, density: 343.23958240793786, square: 64261234
+Sphere; radius: 3189, density: 766.3254036678215, square: 63898241.56531569
+Parallelepiped; x: 1458, y: 6487, z: 2828, density: 977.8519115568814, square: 63853012
+Tetrahedron; x: 6057, density: 71.96370298297339, square: 63544179.25793048
+Sphere; radius: 3168, density: 390.74695462161003, square: 63059455.17636314
+Tetrahedron; x: 6011, density: 180.81347829105866, square: 62582669.35722639
+Parallelepiped; x: 3602, y: 4484, z: 1849, density: 643.1160603472653, square: 62204764
+Parallelepiped; x: 749, y: 4653, z: 5082, density: 517.9858519273378, square: 61876122
+Parallelepiped; x: 3062, y: 905, z: 7074, density: 899.2401431088659, square: 61667336
+Tetrahedron; x: 5952, density: 38.54937676498504, square: 61360158.452380545
+Sphere; radius: 3096, density: 441.58950726699055, square: 60225688.33734269
+Parallelepiped; x: 1633, y: 3412, z: 4833, density: 974.4502843826434, square: 59908562
+Parallelepiped; x: 6646, y: 726, z: 3399, density: 649.4046615918492, square: 59764848
+Tetrahedron; x: 5814, density: 935.2857966152023, square: 58547813.699724495
+Tetrahedron; x: 5814, density: 616.7294952799529, square: 58547813.699724495
+Parallelepiped; x: 520, y: 3119, z: 7596, density: 537.4508233698837, square: 58527448
+Parallelepiped; x: 8534, y: 2594, z: 635, density: 130.4188275160172, square: 58406952
+Parallelepiped; x: 5717, y: 1631, z: 2703, density: 391.9691550543344, square: 58372142
+Parallelepiped; x: 5348, y: 1127, z: 3573, density: 991.0659688851099, square: 58324742
+Tetrahedron; x: 5801, density: 879.3032653770287, square: 58286282.68803564
+Parallelepiped; x: 4702, y: 2610, z: 2299, density: 703.4667505146385, square: 58165016
+Parallelepiped; x: 2421, y: 8753, z: 705, density: 945.9725789693784, square: 58137366
+Parallelepiped; x: 8406, y: 123, z: 3282, density: 405.64973565264296, square: 58052232
+Parallelepiped; x: 4488, y: 874, z: 4661, density: 292.835370641452, square: 57829588
+Parallelepiped; x: 2450, y: 3398, z: 3501, density: 914.66440098505, square: 57597896
+Sphere; radius: 3024, density: 49.89948499107199, square: 57457065.56358708
+Tetrahedron; x: 5753, density: 274.6543914425257, square: 57325701.1665644
+Tetrahedron; x: 5747, density: 324.7136868635293, square: 57206189.66084214
+Tetrahedron; x: 5731, density: 610.6654576819672, square: 56888101.99413373
+Parallelepiped; x: 4082, y: 2125, z: 3166, density: 998.9692343734491, square: 56651224
+Tetrahedron; x: 5702, density: 593.5000205628609, square: 56313828.42452862
+Tetrahedron; x: 5696, density: 497.1717128752621, square: 56195376.9339006
+Tetrahedron; x: 5673, density: 787.0510025670667, square: 55742468.16438184
+Tetrahedron; x: 5650, density: 255.9207950169885, square: 55291391.90461748
+Tetrahedron; x: 5641, density: 414.1195695060221, square: 55115382.63360314
+Tetrahedron; x: 5641, density: 98.45037995319439, square: 55115382.63360314
+Tetrahedron; x: 5634, density: 958.1420027265954, square: 54978680.52361577
+Tetrahedron; x: 5611, density: 296.216844649691, square: 54530711.56300019
+Tetrahedron; x: 5586, density: 187.1961591152568, square: 54045867.240691476
+Tetrahedron; x: 5585, density: 793.1730620237321, square: 54026518.50112012
+Tetrahedron; x: 5544, density: 368.34350682824066, square: 53236202.77018532
+Parallelepiped; x: 3433, y: 3141, z: 2392, density: 176.22983611407994, square: 53016122
+Parallelepiped; x: 7211, y: 2784, z: 609, density: 303.61755590164995, square: 52324758
+Parallelepiped; x: 9520, y: 1542, z: 1038, density: 657.0808244376135, square: 52324392
+Sphere; radius: 2867, density: 617.748533465058, square: 51645829.15438566
+Parallelepiped; x: 482, y: 7588, z: 2726, density: 276.3853174114729, square: 51312472
+Parallelepiped; x: 2531, y: 3842, z: 2495, density: 422.6623971492015, square: 51249474
+Parallelepiped; x: 2968, y: 5012, z: 1333, density: 622.4810256255626, square: 51025912
+Tetrahedron; x: 5395, density: 883.5106810104182, square: 50413114.10636993
+Parallelepiped; x: 1615, y: 2703, z: 4727, density: 799.5387917453758, square: 49553062
+Sphere; radius: 2802, density: 926.7693940744614, square: 49330569.6164696
+Tetrahedron; x: 5326, density: 44.800181300196584, square: 49131831.25352166
+Parallelepiped; x: 2165, y: 850, z: 7474, density: 648.3445032501081, square: 48748720
+Sphere; radius: 2783, density: 936.9110141395458, square: 48663829.40759823
+Parallelepiped; x: 4383, y: 158, z: 5204, density: 768.9399341208729, square: 48647756
+Tetrahedron; x: 5279, density: 767.5919305582032, square: 48268516.509251066
+Parallelepiped; x: 5799, y: 1837, z: 1765, density: 303.3429578036633, square: 48260606
+Tetrahedron; x: 5271, density: 563.8730371087056, square: 48122331.42109225
+Tetrahedron; x: 5269, density: 612.4701699460335, square: 48085819.7900687
+Tetrahedron; x: 5238, density: 192.23747895287158, square: 47521661.39717979
+Parallelepiped; x: 3384, y: 3494, z: 1696, density: 590.4182493096254, square: 46977568
+Parallelepiped; x: 3059, y: 5292, z: 868, density: 627.5295088906364, square: 46873792
+Tetrahedron; x: 5197, density: 904.9517327935121, square: 46780629.43992356
+Parallelepiped; x: 4256, y: 729, z: 4048, density: 775.2475688067706, square: 46563808
+Parallelepiped; x: 574, y: 3818, z: 4796, density: 437.81743211632494, square: 46511128
+Parallelepiped; x: 1638, y: 5459, z: 1987, density: 825.6024474265517, square: 46087162
+Parallelepiped; x: 3199, y: 1157, z: 4428, density: 991.180447597487, square: 45979222
+Tetrahedron; x: 5128, density: 496.5936872383865, square: 45546673.1433413
+Sphere; radius: 2689, density: 536.0660924512948, square: 45431959.94751489
+Tetrahedron; x: 5118, density: 241.47796375152464, square: 45369207.2175978
+Sphere; radius: 2673, density: 502.47518726226724, square: 44892912.913641326
+Parallelepiped; x: 911, y: 1948, z: 7229, density: 425.5004130858748, square: 44884678
+Tetrahedron; x: 5080, density: 565.7618361664422, square: 44697995.96044547
+Tetrahedron; x: 5032, density: 395.4239896456927, square: 43857300.06767092
+Tetrahedron; x: 5027, density: 94.74439257857325, square: 43770186.57230424
+Tetrahedron; x: 5023, density: 135.04573350582683, square: 43700558.12983998
+Tetrahedron; x: 5019, density: 76.64724099288456, square: 43630985.11300155
+Tetrahedron; x: 5016, density: 905.9771547037494, square: 43578841.723439686
+Tetrahedron; x: 4963, density: 379.50308978646166, square: 42662782.567977004
+Sphere; radius: 2602, density: 326.0800623589547, square: 42539702.9364699
+Sphere; radius: 2588, density: 173.43433374509, square: 42083166.69205023
+Tetrahedron; x: 4916, density: 753.2132777213726, square: 41858568.86136228
+Sphere; radius: 2560, density: 988.0274769817131, square: 41177483.22913214
+Parallelepiped; x: 326, y: 1971, z: 8678, density: 406.3217705608617, square: 41151824
+Tetrahedron; x: 4852, density: 791.9344895225092, square: 40775773.83490898
+Sphere; radius: 2539, density: 752.4684325717229, square: 40504686.029624656
+Sphere; radius: 2537, density: 35.06793601886604, square: 40440899.13238616
+Parallelepiped; x: 18, y: 5127, z: 3879, density: 307.2231901427663, square: 40099482
+Parallelepiped; x: 2895, y: 929, z: 4508, density: 128.81024417007626, square: 39856094
+Tetrahedron; x: 4786, density: 553.7861066857007, square: 39674002.459807955
+Tetrahedron; x: 4767, density: 792.6025447546173, square: 39359623.113878556
+Parallelepiped; x: 4528, y: 812, z: 2975, density: 565.7819451809935, square: 39126472
+Sphere; radius: 2495, density: 544.9071051418116, square: 39112985.6168256
+Sphere; radius: 2494, density: 842.6363356186439, square: 39081638.805328086
+Sphere; radius: 2492, density: 514.65904131758, square: 39018982.881444894
+Sphere; radius: 2489, density: 462.2108774861162, square: 38925093.24339971
+Tetrahedron; x: 4673, density: 264.19491517534686, square: 37822670.50927424
+Tetrahedron; x: 4670, density: 690.4251722171199, square: 37774122.85718889
+Tetrahedron; x: 4661, density: 53.9328896817195, square: 37628666.96242006
+Tetrahedron; x: 4619, density: 855.5993239255088, square: 36953582.839662015
+Sphere; radius: 2424, density: 867.9865974250301, square: 36918589.43147844
+Parallelepiped; x: 2475, y: 1486, z: 3710, density: 835.9448892806145, square: 36746320
+Parallelepiped; x: 1631, y: 8865, z: 356, density: 846.893406898531, square: 36390782
+Sphere; radius: 2405, density: 156.13232613032025, square: 36342100.89635941
+Tetrahedron; x: 4579, density: 171.1865582474207, square: 36316326.70654127
+Parallelepiped; x: 7055, y: 1628, z: 736, density: 567.8094443517965, square: 35752456
+Parallelepiped; x: 1618, y: 7149, z: 719, density: 959.508051508458, square: 35741110
+Parallelepiped; x: 1411, y: 2201, z: 4074, density: 485.22784898251734, square: 35641798
+Sphere; radius: 2380, density: 928.5953598183236, square: 35590474.853988044
+Tetrahedron; x: 4514, density: 759.6027250112716, square: 35292606.73698173
+Parallelepiped; x: 8132, y: 1316, z: 727, density: 678.124211821453, square: 35140816
+Tetrahedron; x: 4501, density: 364.49528130413444, square: 35089619.04258869
+Tetrahedron; x: 4500, density: 713.0453900768074, square: 35074028.85326976
+Parallelepiped; x: 2877, y: 4066, z: 828, density: 312.603875432908, square: 34893372
+Parallelepiped; x: 1071, y: 1757, z: 5435, density: 939.1665106216677, square: 34503854
+Parallelepiped; x: 164, y: 9003, z: 1705, density: 697.1966080046636, square: 34212454
+Parallelepiped; x: 2639, y: 3533, z: 1255, density: 981.450409954494, square: 34138894
+Sphere; radius: 2317, density: 7.453573141578795, square: 33731211.206555225
+Sphere; radius: 2296, density: 399.8697863207421, square: 33122540.19629282
+Tetrahedron; x: 4367, density: 714.0001746132565, square: 33031402.283344902
+Tetrahedron; x: 4350, density: 532.8813641416413, square: 32774731.40622208
+Tetrahedron; x: 4342, density: 450.9414499822565, square: 32654291.52126697
+Sphere; radius: 2279, density: 784.1986948629838, square: 32633865.45902693
+Tetrahedron; x: 4304, density: 934.7287028712657, square: 32085229.69254183
+Parallelepiped; x: 565, y: 8245, z: 1283, density: 643.8050505040909, square: 31923310
+Tetrahedron; x: 4258, density: 9.686309179647301, square: 31403058.017879214
+Tetrahedron; x: 4240, density: 83.61226400985711, square: 31138116.598150246
+Tetrahedron; x: 4227, density: 511.858198472418, square: 30947468.033710334
+Parallelepiped; x: 191, y: 6843, z: 2007, density: 973.8323869062322, square: 30848502
+Sphere; radius: 2211, density: 441.0742313144367, square: 30715483.321038857
+Sphere; radius: 2206, density: 851.2747019227013, square: 30576719.1735298
+Tetrahedron; x: 4192, density: 523.5685171211856, square: 30437093.28249805
+Sphere; radius: 2198, density: 810.9465809076634, square: 30355349.98878725
+Sphere; radius: 2195, density: 513.5324361824692, square: 30272543.88962393
+Tetrahedron; x: 4176, density: 234.4007534129371, square: 30205192.463974267
+Tetrahedron; x: 4174, density: 795.9301095024755, square: 30176267.215487868
+Parallelepiped; x: 2961, y: 1984, z: 1862, density: 495.754039909593, square: 30164428
+Parallelepiped; x: 597, y: 7649, z: 1222, density: 184.32157343189726, square: 29286130
+Tetrahedron; x: 4097, density: 703.0138196152046, square: 29073181.2138239
+Tetrahedron; x: 4096, density: 744.641959151579, square: 29058990.521557488
+Tetrahedron; x: 4086, density: 203.20033786196078, square: 28917274.124482203
+Tetrahedron; x: 4080, density: 107.25107519750665, square: 28832410.563114557
+Sphere; radius: 2137, density: 259.8975616095501, square: 28693855.882083215
+Tetrahedron; x: 4050, density: 883.1360144458677, square: 28409963.371148508
+Parallelepiped; x: 1056, y: 9412, z: 393, density: 50.35567649883277, square: 28105992
+Tetrahedron; x: 4026, density: 194.77927141011776, square: 28074250.355422277
+Tetrahedron; x: 4025, density: 972.7470044259012, square: 28060305.61437054
+Tetrahedron; x: 4022, density: 490.75337385443044, square: 28018492.175825022
+Tetrahedron; x: 3968, density: 177.83770202170268, square: 27271181.534391355
+Sphere; radius: 2068, density: 74.41251571819352, square: 26870821.081131592
+Tetrahedron; x: 3910, density: 305.0954606769425, square: 26479765.95119375
+Tetrahedron; x: 3906, density: 36.81519054964999, square: 26425615.11474592
+Parallelepiped; x: 1109, y: 474, z: 7996, density: 765.374909324795, square: 26366668
+Tetrahedron; x: 3895, density: 672.5075464417082, square: 26276986.102897625
+Sphere; radius: 2033, density: 483.59933497298266, square: 25968964.078065567
+Parallelepiped; x: 5168, y: 121, z: 2330, density: 543.4884849730392, square: 25897396
+Tetrahedron; x: 3863, density: 132.11865757321374, square: 25846994.097613808
+Tetrahedron; x: 3863, density: 125.2823385117482, square: 25846994.097613808
+Tetrahedron; x: 3859, density: 815.8086795628069, square: 25793494.51226962
+Parallelepiped; x: 1242, y: 5909, z: 773, density: 584.4370975067988, square: 25733402
+Tetrahedron; x: 3845, density: 400.198091965711, square: 25606682.44036847
+Parallelepiped; x: 5154, y: 2440, z: 29, density: 781.1911320800147, square: 25591972
+Tetrahedron; x: 3826, density: 456.3430526193634, square: 25354237.767216112
+Parallelepiped; x: 251, y: 2597, z: 4178, density: 410.1216182330929, square: 25101582
+Parallelepiped; x: 2062, y: 4228, z: 596, density: 39.64558887280523, square: 24933952
+Tetrahedron; x: 3791, density: 106.66544471647643, square: 24892481.682172287
+Sphere; radius: 1987, density: 447.6508022551272, square: 24807077.45106192
+Tetrahedron; x: 3760, density: 124.84181166338959, square: 24487041.497085758
+Tetrahedron; x: 3750, density: 644.5004885617725, square: 24356964.481437337
+Sphere; radius: 1967, density: 970.5531545258108, square: 24310203.15697016
+Parallelepiped; x: 1870, y: 5218, z: 311, density: 333.1655193464742, square: 23924056
+Parallelepiped; x: 1407, y: 2005, z: 2619, density: 418.16434881694886, square: 23514126
+Parallelepiped; x: 1506, y: 7785, z: 1, density: 247.7342069635654, square: 23467002
+Parallelepiped; x: 721, y: 828, z: 7068, density: 345.69889908283335, square: 23090640
+Parallelepiped; x: 982, y: 7735, z: 426, density: 630.7582466648877, square: 22618424
+Parallelepiped; x: 832, y: 5061, z: 1199, density: 74.1405343356285, square: 22552918
+Tetrahedron; x: 3589, density: 860.9360503559561, square: 22310409.62028091
+Sphere; radius: 1875, density: 195.59570043036166, square: 22089323.345553234
+Sphere; radius: 1867, density: 177.23694911930878, square: 21901229.910197504
+Tetrahedron; x: 3554, density: 159.6906150853169, square: 21877388.258134652
+Tetrahedron; x: 3552, density: 859.8152177625226, square: 21852772.352057483
+Parallelepiped; x: 257, y: 1197, z: 7181, density: 932.4978593297462, square: 21497606
+Tetrahedron; x: 3506, density: 614.0912414566889, square: 21290430.880465712
+Parallelepiped; x: 433, y: 4204, z: 1887, density: 657.5569438823807, square: 21140702
+Tetrahedron; x: 3478, density: 337.22358451835896, square: 20951724.880944002
+Sphere; radius: 1819, density: 727.4973961223761, square: 20789558.500168834
+Tetrahedron; x: 3461, density: 857.1417152528687, square: 20747406.971530754
+Tetrahedron; x: 3460, density: 637.3842148789381, square: 20735419.44789157
+Tetrahedron; x: 3421, density: 422.5781994331879, square: 20270608.025223196
+Tetrahedron; x: 3409, density: 381.4813987092893, square: 20128649.14103485
+Tetrahedron; x: 3389, density: 207.7144126629531, square: 19893159.513237786
+Tetrahedron; x: 3344, density: 267.15403201875165, square: 19368374.099306528
+Sphere; radius: 1754, density: 418.35237623064614, square: 19330320.128502913
+Tetrahedron; x: 3317, density: 526.7773228904342, square: 19056869.957717687
+Sphere; radius: 1685, density: 212.838716785414, square: 17839376.80377696
+Parallelepiped; x: 979, y: 5102, z: 632, density: 428.1618282145817, square: 17676100
+Tetrahedron; x: 3170, density: 73.15543212678222, square: 17405205.36017889
+Tetrahedron; x: 3155, density: 222.47928084557623, square: 17240877.03981079
+Parallelepiped; x: 859, y: 9049, z: 80, density: 463.8194234795654, square: 17131462
+Sphere; radius: 1650, density: 712.0985969806395, square: 17105971.998796426
+Tetrahedron; x: 3104, density: 204.45694986742947, square: 16687990.83357754
+Tetrahedron; x: 3075, density: 72.51205258706739, square: 16377622.917318465
+Parallelepiped; x: 1214, y: 2865, z: 1145, density: 289.69653255449714, square: 16297130
+Tetrahedron; x: 3065, density: 983.4424800775523, square: 16271274.997733735
+Sphere; radius: 1609, density: 314.78514610145527, square: 16266419.061236393
+Parallelepiped; x: 692, y: 2574, z: 1940, density: 317.8445567467142, square: 16234496
+Sphere; radius: 1603, density: 842.5628550023584, square: 16145329.51399643
+Parallelepiped; x: 1170, y: 2822, z: 1158, density: 527.7901854452512, square: 15848952
+Sphere; radius: 1569, density: 956.0194232760078, square: 15467700.544987725
+Sphere; radius: 1559, density: 365.4498652221896, square: 15271162.50857915
+Sphere; radius: 1511, density: 927.6120449568432, square: 14345272.321713164
+Tetrahedron; x: 2870, density: 488.69215767172255, square: 14266729.296864085
+Parallelepiped; x: 4219, y: 9, z: 1675, density: 850.9478988658552, square: 14239742
+Tetrahedron; x: 2850, density: 444.3098832991629, square: 14068582.684478205
+Tetrahedron; x: 2841, density: 441.60289417892915, square: 13979868.774165334
+Tetrahedron; x: 2833, density: 722.4491792370193, square: 13901247.523908168
+Parallelepiped; x: 612, y: 335, z: 7106, density: 785.5253538368718, square: 13868804
+Sphere; radius: 1485, density: 614.4857520423282, square: 13855837.319025105
+Tetrahedron; x: 2824, density: 397.4645699226036, square: 13813063.621142413
+Sphere; radius: 1480, density: 948.5298916167696, square: 13762689.096846165
+Tetrahedron; x: 2752, density: 242.1340913814477, square: 13117693.719326122
+Sphere; radius: 1437, density: 78.38555636807965, square: 12974582.880581323
+Sphere; radius: 1434, density: 323.26645588718037, square: 12920465.805530585
+Sphere; radius: 1430, density: 344.24140124781, square: 12848485.634651538
+Sphere; radius: 1417, density: 11.910714247718168, square: 12615938.66324751
+Tetrahedron; x: 2692, density: 963.9241774240157, square: 12551936.643541824
+Tetrahedron; x: 2679, density: 589.3964691692513, square: 12430999.660004942
+Tetrahedron; x: 2655, density: 350.4484629529487, square: 12209269.443823205
+Sphere; radius: 1390, density: 904.5237795720185, square: 12139742.332001679
+Sphere; radius: 1383, density: 190.41636374299452, square: 12017779.422004016
+Sphere; radius: 1377, density: 166.4833687302214, square: 11913729.873317122
+Parallelepiped; x: 1351, y: 296, z: 3312, density: 476.9700016953341, square: 11709520
+Sphere; radius: 1361, density: 568.2623257028783, square: 11638476.0913802
+Tetrahedron; x: 2564, density: 776.5304931027387, square: 11386668.285835326
+Tetrahedron; x: 2550, density: 683.857174418567, square: 11262660.376216624
+Sphere; radius: 1337, density: 72.58097643975947, square: 11231627.276369706
+Sphere; radius: 1330, density: 871.2984995569883, square: 11114326.48986997
+Tetrahedron; x: 2512, density: 740.4152508055831, square: 10929490.011075905
+Tetrahedron; x: 2498, density: 367.4696209227345, square: 10808003.967433024
+Tetrahedron; x: 2465, density: 97.92527568348908, square: 10524330.418220202
+Sphere; radius: 1289, density: 798.4335803164178, square: 10439644.334770333
+Tetrahedron; x: 2412, density: 513.4451823030333, square: 10076628.19342899
+Sphere; radius: 1259, density: 103.56242645803515, square: 9959357.649889525
+Sphere; radius: 1258, density: 440.3345811698965, square: 9943542.872471355
+Sphere; radius: 1255, density: 344.651381567652, square: 9896173.938440528
+Sphere; radius: 1238, density: 303.8427629922399, square: 9629886.26193695
+Sphere; radius: 1209, density: 58.77854692822615, square: 9184012.582983565
+Sphere; radius: 1209, density: 775.3730637471194, square: 9184012.582983565
+Sphere; radius: 1207, density: 702.5543420492039, square: 9153652.231579272
+Parallelepiped; x: 2102, y: 1666, z: 246, density: 826.1018294990059, square: 8857720
+Tetrahedron; x: 2246, density: 363.4291954077102, square: 8737358.011594122
+Tetrahedron; x: 2217, density: 718.085526392924, square: 8513183.871722905
+Tetrahedron; x: 2201, density: 380.64429803394853, square: 8390748.664237477
+Tetrahedron; x: 2182, density: 626.039828588281, square: 8246508.669135563
+Sphere; radius: 1120, density: 160.8399067770393, square: 7881627.649326073
+Tetrahedron; x: 2131, density: 227.179391679452, square: 7865521.57735029
+Tetrahedron; x: 2127, density: 906.7336307637007, square: 7836021.287995777
+Tetrahedron; x: 2119, density: 100.08252225922432, square: 7777186.986164277
+Sphere; radius: 1106, density: 361.7981969848051, square: 7685818.4624131275
+Tetrahedron; x: 2105, density: 53.366942942726816, square: 7674760.429607884
+Tetrahedron; x: 2096, density: 165.06421202001275, square: 7609273.320624513
+Tetrahedron; x: 2024, density: 128.3530063621121, square: 7095477.769067281
+Tetrahedron; x: 2017, density: 205.2849842199205, square: 7046483.24787358
+Tetrahedron; x: 2015, density: 500.50232315518537, square: 7032515.990161344
+Tetrahedron; x: 1993, density: 716.9702051492611, square: 6879790.678153151
+Sphere; radius: 1044, density: 381.18509532089286, square: 6848269.860966089
+Sphere; radius: 1044, density: 223.9440786400948, square: 6848269.860966089
+Parallelepiped; x: 23, y: 3442, z: 964, density: 300.19064196113874, square: 6838852
+Tetrahedron; x: 1970, density: 239.23315455456063, square: 6721915.9790940555
+Tetrahedron; x: 1965, density: 822.6680050851197, square: 6687837.879455138
+Tetrahedron; x: 1956, density: 18.16694358772708, square: 6626715.538506839
+Parallelepiped; x: 273, y: 7348, z: 147, density: 249.24630043748886, square: 6252582
+Tetrahedron; x: 1884, density: 350.94184402754, square: 6147838.131230197
+Tetrahedron; x: 1855, density: 654.201706663741, square: 5960030.130114696
+Tetrahedron; x: 1851, density: 913.0955048438146, square: 5934354.208943294
+Sphere; radius: 969, density: 878.9063193695789, square: 5899665.959214652
+Parallelepiped; x: 490, y: 2415, z: 597, density: 561.6074698724846, square: 5835270
+Tetrahedron; x: 1809, density: 381.42652589651306, square: 5668103.358803807
+Tetrahedron; x: 1797, density: 251.7419359247822, square: 5593154.056258686
+Sphere; radius: 927, density: 759.1289744131211, square: 5399323.346833326
+Sphere; radius: 926, density: 19.064723835622964, square: 5387680.604459123
+Sphere; radius: 917, density: 506.43811870504305, square: 5283461.409768935
+Sphere; radius: 912, density: 935.4368492317354, square: 5226001.680134778
+Sphere; radius: 892, density: 299.5894219262878, square: 4999304.354251739
+Tetrahedron; x: 1677, density: 114.767249816768, square: 4871096.715599373
+Sphere; radius: 873, density: 401.9062858478678, square: 4788597.734975471
+Sphere; radius: 866, density: 767.0970733115827, square: 4712112.520231174
+Tetrahedron; x: 1598, density: 371.8586111547967, square: 4422971.870411115
+Parallelepiped; x: 663, y: 381, z: 1830, density: 343.3403242806928, square: 4326246
+Tetrahedron; x: 1547, density: 284.8162086011532, square: 4145159.581131105
+Tetrahedron; x: 1532, density: 426.3107247910568, square: 4065164.8145835362
+Tetrahedron; x: 1519, density: 932.4503582146931, square: 3996466.483402932
+Tetrahedron; x: 1511, density: 749.2662062701286, square: 3954481.5718274624
+Tetrahedron; x: 1482, density: 884.2019141702085, square: 3804144.7578829066
+Tetrahedron; x: 1429, density: 885.6959526259103, square: 3536918.7631387576
+Sphere; radius: 746, density: 645.1512137276155, square: 3496693.154410355
+Sphere; radius: 731, density: 2.517862242120472, square: 3357489.1839297907
+Parallelepiped; x: 59, y: 504, z: 2627, density: 771.1001738262897, square: 3017474
+Sphere; radius: 691, density: 788.9719460276585, square: 3000101.603657416
+Tetrahedron; x: 1289, density: 891.5497642465791, square: 2877838.7898426484
+Tetrahedron; x: 1286, density: 278.19037656771974, square: 2864458.697354179
+Tetrahedron; x: 1268, density: 883.0667378396047, square: 2784832.8576286226
+Tetrahedron; x: 1263, density: 496.11281763487267, square: 2762913.7546588383
+Tetrahedron; x: 1261, density: 817.0087536980964, square: 2754170.3621822307
+Sphere; radius: 618, density: 902.0583701700723, square: 2399699.265259256
+Tetrahedron; x: 1176, density: 164.12584003322638, square: 2395384.6976483753
+Tetrahedron; x: 1163, density: 194.13768265305865, square: 2342718.228742629
+Tetrahedron; x: 1152, density: 760.5584170176946, square: 2298611.5549278874
+Sphere; radius: 602, density: 124.46353256066945, square: 2277051.4880631105
+Sphere; radius: 599, density: 97.17161865792623, square: 2254413.171401343
+Sphere; radius: 570, density: 39.36293213424547, square: 2041406.9063026477
+Tetrahedron; x: 1085, density: 555.7159378671536, square: 2039013.5119402714
+Tetrahedron; x: 1074, density: 722.6646051772025, square: 1997879.037311318
+Tetrahedron; x: 1064, density: 264.35596552872477, square: 1960847.7910454955
+Sphere; radius: 556, density: 737.1765359551207, square: 1942358.7731202685
+Tetrahedron; x: 1035, density: 555.4344627829769, square: 1855416.1263379704
+Sphere; radius: 539, density: 437.7490181296607, square: 1825397.2786271207
+Tetrahedron; x: 1001, density: 816.2056686293834, square: 1735516.6412348226
+Tetrahedron; x: 993, density: 276.9962258913977, square: 1707886.9667524837
+Tetrahedron; x: 952, density: 820.2059067638678, square: 1569764.5751029036
+Sphere; radius: 493, density: 933.6276992684586, square: 1527121.9057246912
+Tetrahedron; x: 928, density: 674.1559752963044, square: 1491614.442665396
+Tetrahedron; x: 909, density: 943.4646530285081, square: 1431160.6733288195
+Sphere; radius: 477, density: 13.99112434979688, square: 1429606.8697572642
+Tetrahedron; x: 902, density: 57.06250985231654, square: 1409203.4652412687
+Sphere; radius: 463, density: 241.33304910212004, square: 1346920.1511147807
+Sphere; radius: 449, density: 793.7673036867542, square: 1266696.4411127118
+Tetrahedron; x: 831, density: 985.669759310716, square: 1196086.7377255715
+Sphere; radius: 432, density: 482.0972421454259, square: 1172593.174767083
+Sphere; radius: 431, density: 655.7089877505281, square: 1167170.7858469873
+Tetrahedron; x: 741, density: 792.0013208210402, square: 951036.1894707266
+Tetrahedron; x: 736, density: 857.4450352200249, square: 938244.9942568305
+Sphere; radius: 371, density: 856.4375242006046, square: 864823.9088655055
+Sphere; radius: 362, density: 301.9803991529094, square: 823373.7353940418
+Tetrahedron; x: 667, density: 763.7388724486922, square: 770570.3517285102
+Tetrahedron; x: 640, density: 51.98797741750305, square: 709448.0107802121
+Sphere; radius: 323, density: 179.43083664180938, square: 655518.439912739
+Sphere; radius: 317, density: 279.1304487747356, square: 631391.0083331695
+Parallelepiped; x: 209, y: 73, z: 1012, density: 550.3887495557254, square: 601282
+Sphere; radius: 294, density: 738.3732963511005, square: 543093.4052113747
+Tetrahedron; x: 498, density: 991.4523097529278, square: 429555.5284803118
+Tetrahedron; x: 478, density: 347.4004731108374, square: 395745.89671656734
+Sphere; radius: 227, density: 318.5457733123226, square: 323766.25569365686
+Tetrahedron; x: 421, density: 608.8011682609349, square: 306990.4171843154
+Tetrahedron; x: 408, density: 983.6305375966334, square: 288324.1056311456
+Sphere; radius: 209, density: 55.23649325395408, square: 274455.81740291155
+Sphere; radius: 203, density: 964.7654754598569, square: 258923.78332356358
+Tetrahedron; x: 366, density: 144.35166267999733, square: 232018.59797869652
+Sphere; radius: 174, density: 41.47354649712065, square: 190229.71836016915
+Tetrahedron; x: 312, density: 76.1630171113884, square: 168604.7538119848
+Tetrahedron; x: 293, density: 355.3127956414368, square: 148694.82977898055
+Sphere; radius: 141, density: 149.12775816752156, square: 124916.00709203734
+Tetrahedron; x: 189, density: 341.4746050696782, square: 61870.586897167865
+Sphere; radius: 93, density: 97.53501799461884, square: 54343.269721796234
+Sphere; radius: 91, density: 639.6339188884496, square: 52031.05752875415
+Sphere; radius: 89, density: 748.3899887252439, square: 49769.11081816951
+Tetrahedron; x: 147, density: 592.4790283300869, square: 37427.885900755864
+Sphere; radius: 66, density: 304.43598335900225, square: 27369.55519807428
+Tetrahedron; x: 118, density: 628.726363475024, square: 24117.075444589045
+Tetrahedron; x: 102, density: 286.4272227780881, square: 18020.2566019466
+Sphere; radius: 50, density: 583.4795228415215, square: 15707.963267948966
+Tetrahedron; x: 86, density: 846.5032480562357, square: 12810.247772779416
+Tetrahedron; x: 75, density: 294.64584951264163, square: 9742.785792574934
+Tetrahedron; x: 56, density: 137.6182473632682, square: 5431.711332535999
+Sphere; radius: 24, density: 544.7854453186292, square: 3619.1147369354417
+Tetrahedron; x: 39, density: 567.3231605624779, square: 2634.4492783122623
+Tetrahedron; x: 5, density: 334.1705966804257, square: 43.30127018922193
+

@@ -1,0 +1,10 @@
+Container contains: 3 elements.
+Sphere; radius: 900, density: 7.67, square: 5089380.098815464
+Parallelepiped; x: 20, y: 21, z: 22, density: 8.345, square: 2644
+Tetrahedron; x: 70, density: 1.2343, square: 8487.048957087498
+
+Container contains: 3 elements.
+Sphere; radius: 900, density: 7.67, square: 5089380.098815464
+Tetrahedron; x: 70, density: 1.2343, square: 8487.048957087498
+Parallelepiped; x: 20, y: 21, z: 22, density: 8.345, square: 2644
+
