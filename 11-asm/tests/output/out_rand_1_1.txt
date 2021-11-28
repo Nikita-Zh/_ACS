@@ -1,0 +1,6 @@
+Filled container:
+0: It is SPHERE: x = 3, y = 14. Perimeter = 34
+1: It is SPHERE: x = 12, y = 11. Perimeter = 46
+2: It is PARALLELEPIPED: a = 13, b = 11, c = 11. Perimeter = 35
+3: It is SPHERE: x = 17, y = 13. Perimeter = 60
+4: It is PARALLELEPIPED: a = 20, b = 19, c = 13. Perimeter = 52

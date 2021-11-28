@@ -1,0 +1,3 @@
+run -f tests/test01.txt tests/output/out1_1.txt tests/output/out1_2.txt
+run -n 5 tests/output/out_rand_1_1.txt tests/output/out_rand_1_2.txt
+run -f tests/input/test1.txt tests/output/out1_1.txt tests/output/out1_2.txt

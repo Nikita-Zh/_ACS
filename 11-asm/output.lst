@@ -1,0 +1,241 @@
+     1                                  ; file.asm - использование файлов в NASM
+     2                                  extern printf
+     3                                  extern fprintf
+     4                                  
+     5                                  extern PerimeterSPHERE
+     6                                  extern PerimeterPARALLELEPIPED
+     7                                  
+     8                                  extern SPHERE
+     9                                  extern PARALLELEPIPED
+    10                                  
+    11                                  ;----------------------------------------------
+    12                                  ;// Вывод параметров прямоугольника в файл
+    13                                  ;void OutSPHERE(void *r, FILE *ofst) {
+    14                                  ;    fprintf(ofst, "It is SPHERE: x = %d, y = %d. Perimeter = %g\n",
+    15                                  ;            *((int*)r), *((int*)(r+intSize)), PerimeterSPHERE(r));
+    16                                  ;}
+    17                                  global OutSPHERE
+    18                                  OutSPHERE:
+    19                                  section .data
+    20 00000000 497420697320535048-         .outfmt db "It is SPHERE: x = %d, y = %d. Perimeter = %g",10,0
+    20 00000009 4552453A2078203D20-
+    20 00000012 25642C2079203D2025-
+    20 0000001B 642E20506572696D65-
+    20 00000024 746572203D2025670A-
+    20 0000002D 00                 
+    21                                  section .bss
+    22 00000000 ????????????????            .prect  resq  1
+    23 00000008 ????????????????            .FILE   resq  1       ; временное хранение указателя на файл
+    24 00000010 ????????????????            .p      resq  1       ; вычисленный периметр прямоугольника
+    25                                  section .text
+    26 00000000 55                      push rbp
+    27 00000001 4889E5                  mov rbp, rsp
+    28                                  
+    29                                      ; Сохранени принятых аргументов
+    30 00000004 48893C25[00000000]          mov     [.prect], rdi          ; сохраняется адрес прямоугольника
+    31 0000000C 48893425[08000000]          mov     [.FILE], rsi          ; сохраняется указатель на файл
+    32                                  
+    33                                      ; Вычисление периметра прямоугольника (адрес уже в rdi)
+    34 00000014 E8(00000000)                call    PerimeterSPHERE
+    35 00000019 F20F110425-                 movsd   [.p], xmm0          ; сохранение (может лишнее) периметра
+    35 0000001E [10000000]         
+    36                                  
+    37                                      ; Вывод информации о прямоугольнике в консоль
+    38                                  ;     mov     rdi, .outfmt        ; Формат - 1-й аргумент
+    39                                  ;     mov     rax, [.prect]       ; адрес прямоугольника
+    40                                  ;     mov     esi, [rax]          ; x
+    41                                  ;     mov     edx, [rax+4]        ; y
+    42                                  ;     movsd   xmm0, [.p]
+    43                                  ;     mov     rax, 1              ; есть числа с плавающей точкой
+    44                                  ;     call    printf
+    45                                  
+    46                                      ; Вывод информации о прямоугольнике в файл
+    47 00000022 488B3C25[08000000]          mov     rdi, [.FILE]
+    48 0000002A 48BE-                       mov     rsi, .outfmt        ; Формат - 2-й аргумент
+    48 0000002C [0000000000000000] 
+    49 00000034 488B0425[00000000]          mov     rax, [.prect]        ; адрес прямоугольника
+    50 0000003C 8B10                        mov     edx, [rax]          ; x
+    51 0000003E 8B4804                      mov     ecx, [rax+4]        ; y
+    52 00000041 F20F100425-                 movsd   xmm0, [.p]
+    52 00000046 [10000000]         
+    53 0000004A B801000000                  mov     rax, 1              ; есть числа с плавающей точкой
+    54 0000004F E8(00000000)                call    fprintf
+    55                                  
+    56 00000054 C9                      leave
+    57 00000055 C3                      ret
+    58                                  
+    59                                  ;----------------------------------------------
+    60                                  ; // Вывод параметров треугольника в файл
+    61                                  ; void OutPARALLELEPIPED(void *t, FILE *ofst) {
+    62                                  ;     fprintf(ofst, "It is PARALLELEPIPED: a = %d, b = %d, c = %d. Perimeter = %g\n",
+    63                                  ;            *((int*)t), *((int*)(t+intSize)), *((int*)(t+2*intSize)),
+    64                                  ;             PerimeterPARALLELEPIPED(t));
+    65                                  ; }
+    66                                  global OutPARALLELEPIPED
+    67                                  OutPARALLELEPIPED:
+    68                                  section .data
+    69 0000002E 497420697320504152-         .outfmt db "It is PARALLELEPIPED: a = %d, b = %d, c = %d, d = %d. Perimeter = %g",10,0
+    69 00000037 414C4C454C45504950-
+    69 00000040 45443A2061203D2025-
+    69 00000049 642C2062203D202564-
+    69 00000052 2C2063203D2025642C-
+    69 0000005B 2064203D2025642E20-
+    69 00000064 506572696D65746572-
+    69 0000006D 203D2025670A00     
+    70                                  section .bss
+    71 00000018 ????????????????            .ptrian  resq  1
+    72 00000020 ????????????????            .FILE   resq  1       ; временное хранение указателя на файл
+    73 00000028 ????????????????            .p      resq  1       ; вычисленный периметр треугольника
+    74                                  section .text
+    75 00000056 55                      push rbp
+    76 00000057 4889E5                  mov rbp, rsp
+    77                                  
+    78                                      ; Сохранени принятых аргументов
+    79 0000005A 48893C25[18000000]          mov     [.ptrian], rdi        ; сохраняется адрес треугольника
+    80 00000062 48893425[20000000]          mov     [.FILE], rsi          ; сохраняется указатель на файл
+    81                                  
+    82                                      ; Вычисление периметра треугольника (адрес уже в rdi)
+    83 0000006A E8(00000000)                call    PerimeterPARALLELEPIPED
+    84 0000006F F20F110425-                 movsd   [.p], xmm0          ; сохранение (может лишнее) периметра
+    84 00000074 [28000000]         
+    85                                  
+    86                                      ; Вывод информации о треугольнике в консоль
+    87                                      ;mov     rdi, .outfmt        ; Формат - 1-й аргумент
+    88                                      ;mov     rax, [.ptrian]       ; адрес треугольника
+    89                                      ;mov     esi, [rax]          ; a
+    90                                      ;mov     edx, [rax+4]        ; b
+    91                                      ;mov     ecx, [rax+8]        ; c
+    92                                      ;mov     r8, [rax+12]        ; c
+    93                                      ;movsd   xmm0, [.p]
+    94                                      ;mov     rax, 1              ; есть числа с плавающей точкой
+    95                                      ;call    printf
+    96                                  
+    97                                      ; Вывод информации о треугольнике в файл
+    98 00000078 488B3C25[20000000]          mov     rdi, [.FILE]
+    99 00000080 48BE-                       mov     rsi, .outfmt        ; Формат - 2-й аргумент
+    99 00000082 [2E00000000000000] 
+   100 0000008A 488B0425[18000000]          mov     rax, [.ptrian]      ; адрес треугольника
+   101 00000092 8B10                        mov     edx, [rax]          ; a
+   102 00000094 8B4804                      mov     ecx, [rax+4]        ; b
+   103 00000097 4C8B4008                    mov      r8, [rax+8]        ; c
+   104 0000009B 4C8B480C                    mov     r9, [rax+12]        ; density
+   105                                      ;movsd   xmm1, [rax+12]
+   106 0000009F F20F100425-                 movsd   xmm0, [.p]
+   106 000000A4 [28000000]         
+   107 000000A8 B801000000                  mov     rax, 1              ; есть числа с плавающей точкой
+   108 000000AD E8(00000000)                call    fprintf
+   109                                  
+   110 000000B2 C9                      leave
+   111 000000B3 C3                      ret
+   112                                  
+   113                                  ;----------------------------------------------
+   114                                  ; // Вывод параметров текущей фигуры в файл
+   115                                  ; void OutShape(void *s, FILE *ofst) {
+   116                                  ;     int k = *((int*)s);
+   117                                  ;     if(k == SPHERE) {
+   118                                  ;         OutSPHERE(s+intSize, ofst);
+   119                                  ;     }
+   120                                  ;     else if(k == PARALLELEPIPED) {
+   121                                  ;         OutPARALLELEPIPED(s+intSize, ofst);
+   122                                  ;     }
+   123                                  ;     else {
+   124                                  ;         fprintf(ofst, "Incorrect figure!\n");
+   125                                  ;     }
+   126                                  ; }
+   127                                  global OutShape
+   128                                  OutShape:
+   129                                  section .data
+   130 00000074 496E636F7272656374-         .erShape db "Incorrect figure!",10,0
+   130 0000007D 20666967757265210A-
+   130 00000086 00                 
+   131                                  section .text
+   132 000000B4 55                      push rbp
+   133 000000B5 4889E5                  mov rbp, rsp
+   134                                  
+   135                                      ; В rdi адрес фигуры
+   136 000000B8 8B07                        mov eax, [rdi]
+   137 000000BA 3B0425[00000000]            cmp eax, [SPHERE]
+   138 000000C1 741F                        je rectOut
+   139 000000C3 3B0425[00000000]            cmp eax, [PARALLELEPIPED]
+   140 000000CA 7421                        je trianOut
+   141 000000CC 48BF-                       mov rdi, .erShape
+   141 000000CE [7400000000000000] 
+   142 000000D6 B800000000                  mov rax, 0
+   143 000000DB E8(00000000)                call fprintf
+   144 000000E0 EB14                        jmp     return
+   145                                  rectOut:
+   146                                      ; Вывод прямоугольника
+   147 000000E2 4883C704                    add     rdi, 4
+   148 000000E6 E815FFFFFF                  call    OutSPHERE
+   149 000000EB EB09                        jmp     return
+   150                                  trianOut:
+   151                                      ; Вывод треугольника
+   152 000000ED 4883C704                    add     rdi, 4
+   153 000000F1 E860FFFFFF                  call    OutPARALLELEPIPED
+   154                                  return:
+   155 000000F6 C9                      leave
+   156 000000F7 C3                      ret
+   157                                  
+   158                                  ;----------------------------------------------
+   159                                  ; // Вывод содержимого контейнера в файл
+   160                                  ; void OutContainer(void *c, int len, FILE *ofst) {
+   161                                  ;     void *tmp = c;
+   162                                  ;     fprintf(ofst, "Container contains %d elements.\n", len);
+   163                                  ;     for(int i = 0; i < len; i++) {
+   164                                  ;         fprintf(ofst, "%d: ", i);
+   165                                  ;         OutShape(tmp, ofst);
+   166                                  ;         tmp = tmp + shapeSize;
+   167                                  ;     }
+   168                                  ; }
+   169                                  global OutContainer
+   170                                  OutContainer:
+   171                                  section .data
+   172 00000087 25643A2000                  numFmt  db  "%d: ",0
+   173                                  section .bss
+   174 00000030 ????????????????            .pcont  resq    1   ; адрес контейнера
+   175 00000038 ????????                    .len    resd    1   ; адрес для сохранения числа введенных элементов
+   176 0000003C ????????????????            .FILE   resq    1   ; указатель на файл
+   177                                  section .text
+   178 000000F8 55                      push rbp
+   179 000000F9 4889E5                  mov rbp, rsp
+   180                                  
+   181 000000FC 48893C25[30000000]          mov [.pcont], rdi   ; сохраняется указатель на контейнер
+   182 00000104 893425[38000000]            mov [.len],   esi     ; сохраняется число элементов
+   183 0000010B 48891425[3C000000]          mov [.FILE],  rdx    ; сохраняется указатель на файл
+   184                                  
+   185                                      ; В rdi адрес начала контейнера
+   186 00000113 4889F3                      mov rbx, rsi            ; число фигур
+   187 00000116 31C9                        xor ecx, ecx            ; счетчик фигур = 0
+   188 00000118 4889D6                      mov rsi, rdx            ; перенос указателя на файл
+   189                                  .loop:
+   190 0000011B 39D9                        cmp ecx, ebx            ; проверка на окончание цикла
+   191 0000011D 7D4D                        jge .return             ; Перебрали все фигуры
+   192                                  
+   193 0000011F 53                          push rbx
+   194 00000120 51                          push rcx
+   195                                  
+   196                                      ; Вывод номера фигуры
+   197 00000121 488B3C25[3C000000]          mov     rdi, [.FILE]    ; текущий указатель на файл
+   198 00000129 48BE-                       mov     rsi, numFmt     ; формат для вывода фигуры
+   198 0000012B [8700000000000000] 
+   199 00000133 89CA                        mov     edx, ecx        ; индекс текущей фигуры
+   200 00000135 4831C0                      xor     rax, rax,       ; только целочисленные регистры
+   201 00000138 E8(00000000)                call fprintf
+   202                                  
+   203                                      ; Вывод текущей фигуры
+   204 0000013D 488B3C25[30000000]          mov     rdi, [.pcont]
+   205 00000145 488B3425[3C000000]          mov     rsi, [.FILE]
+   206 0000014D E862FFFFFF                  call OutShape     ; Получение периметра первой фигуры
+   207                                  
+   208 00000152 59                          pop rcx
+   209 00000153 5B                          pop rbx
+   210 00000154 FFC1                        inc ecx                 ; индекс следующей фигуры
+   211                                  
+   212 00000156 488B0425[30000000]          mov     rax, [.pcont]
+   213 0000015E 4883C020                    add     rax, 32        ; адрес следующей фигуры
+   214 00000162 48890425[30000000]          mov     [.pcont], rax
+   215 0000016A EBAF                        jmp .loop
+   216                                  .return:
+   217 0000016C C9                      leave
+   218 0000016D C3                      ret
+   219                                  
