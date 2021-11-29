@@ -1,0 +1,1 @@
+Perimeter sum = 227. Calculaton time = 0 sec, 2460 nsec
