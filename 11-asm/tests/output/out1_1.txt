@@ -1,7 +1,0 @@
-Filled container:
-0: It is SPHERE: x = 3, y = 4. Perimeter = 14
-1: It is PARALLELEPIPED: a = 1, b = 1, c = 1, d = 9. Perimeter = 3
-2: It is PARALLELEPIPED: a = 30, b = 40, c = 50, d = 60. Perimeter = 120
-3: It is PARALLELEPIPED: a = 8, b = 8, c = 8, d = 5. Perimeter = 24
-4: It is SPHERE: x = 2, y = 20. Perimeter = 44
-5: It is PARALLELEPIPED: a = 6, b = 6, c = 6, d = 7. Perimeter = 18

@@ -1,7 +1,0 @@
-Filled container:
-0: It is SPHERE: x = 900, density = 7. Square = 5086800.000000
-1: It is SPHERE: x = 900, density = 8. Square = 5086800.000000
-2: It is TETRAHEDRON: x = 900, density = 2. Square = 1402961.154156
-3: It is PARALLELEPIPED: a = 20, b = 21, c = 22, density = 8. Square = 2644.000000
-4: It is PARALLELEPIPED: a = 30, b = 31, c = 32, density = 9. Square = 5764.000000
-5: It is PARALLELEPIPED: a = 30, b = 31, c = 32, density = 9. Square = 5764.000000
