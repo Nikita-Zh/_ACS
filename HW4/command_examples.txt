@@ -1,0 +1,3 @@
+run -n 10 tests/output/out_rand_1_1.txt tests/output/out_rand_1_2.txt
+run -f tests/input/test1.txt tests/output/out1_1.txt tests/output/out1_2.txt
+run -f tests/input/test2.txt tests/output/out2_1.txt tests/output/out2_2.txt
