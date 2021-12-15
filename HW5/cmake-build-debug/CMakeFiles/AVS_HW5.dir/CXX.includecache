@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nikita/HSE/Algoci/HW5/Patient.h
+string
+-
+
+/Users/nikita/HSE/Algoci/HW5/main.cpp
+iostream
+-
+utility
+-
+pthread.h
+-
+cstdlib
+-
+unistd.h
+-
+Patient.h
+/Users/nikita/HSE/Algoci/HW5/Patient.h
+
